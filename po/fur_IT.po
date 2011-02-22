@@ -9,8 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nb\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fur_IT\n"
 
 #. [campaign]: id=Swamp_Rage
 #. [editor_group]: id=rotw
@@ -1740,7 +1739,7 @@ msgstr ""
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:208
 msgid ""
-"We should reach the mines soon. After that, we go a bit further south and "
+"We should reach the mines soon. After that, we go a bit fur_ITther south and "
 "we'll find the exit to the hills above the dam."
 msgstr ""
 
