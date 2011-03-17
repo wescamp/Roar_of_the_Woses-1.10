@@ -1739,7 +1739,7 @@ msgstr ""
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:208
 msgid ""
-"We should reach the mines soon. After that, we go a bit fur_ITther south and "
+"We should reach the mines soon. After that, we go a bit further south and "
 "we'll find the exit to the hills above the dam."
 msgstr ""
 
