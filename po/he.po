@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:36+0100\n"
+"POT-Creation-Date: 2011-04-12 14:25+0200\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: he\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]: id=Swamp_Rage
@@ -181,7 +181,6 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:262
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:109
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:130
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:209
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:111
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:137
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:142
@@ -272,7 +271,6 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:266
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:113
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:134
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:213
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:115
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:141
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:146
@@ -663,7 +661,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:214
-msgid "*scratch, scratch, scratch*"
+msgid "*scratch, scratch, scratch*</span>"
 msgstr ""
 
 #. [message]: speaker=Kylix
@@ -1032,39 +1030,40 @@ msgid "Any cavalry unit reaches the south end of the road"
 msgstr ""
 
 #. [message]: speaker=Kadras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:133
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:134
 msgid ""
 "I thought Tugarth had dealt with you. Evidently I was wrong. I will not risk "
 "letting you escape twice.\n"
+"\n"
 "Scouts, go to Wesnoth and bring everyone you can find. I'll keep them under "
 "observation until you return."
 msgstr ""
 
 #. [message]: race=drake
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:155
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:156
 msgid ""
 "They are recruiting fast moving scouts to warn of our coming. Let me go "
 "ahead to delay them."
 msgstr ""
 
 #. [message]: speaker=Kadras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:201
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:202
 msgid "My fort destroyed, my scouts killed. I have failed to warn Wesnoth."
 msgstr ""
 
 #. [message]: speaker=Kadras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:212
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:213
 msgid "They have overwhelmed me! Fly for your lives."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:228
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:229
 msgid ""
 "Someone managed to escape to warn of our coming. This is going to be bad."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:232
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:233
 msgid ""
 "Isarras's prediction came true. A large Wesnoth force caught Kylix while she "
 "was separated from the rest of her army and killed her."
@@ -1243,7 +1242,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:121
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:217
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:123
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:150
 msgid "Death of Ignavus"
@@ -1611,87 +1610,86 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:126
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:205
 msgid "Kill Ar'Kasan"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:147
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:156
 msgid "This swamp looks like a good place for a rest."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:151
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:160
 msgid ""
 "And with a rest, our troops will be stronger. We cannot appear weak before "
 "potential allies."
 msgstr ""
 
 #. [message]: speaker=ArKasan
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:155
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:164
 msgid "Who are you that do trespass within my demesne?"
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:159
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:168
 msgid "We do not answer to you and we go where we please."
 msgstr ""
 
 #. [message]: speaker=ArKasan
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:163
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:172
 msgid "You lack manners, saurians. Attend, and learn from your better."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:167
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:176
 msgid ""
 "I think you made it angry. Look at all the skeletons rising from the ground."
 msgstr ""
 
 #. [message]: speaker=Gra Korust
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:171
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:180
 msgid ""
 "They shall be no problem. Their dry bones shall burn like tinder before me."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:175
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:184
 msgid ""
 "They rise at its command—ßmaybe they shall also fall without it. Strike for "
 "the leader and we shall put this theory to the test!"
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:192
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:201
 msgid ""
 "Help me! I was with my comrades when the undead attacked. I can't hold them "
 "off any longer."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:196
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:205
 msgid "Of course we shall aid you. Join us, and we shall defeat them together."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:200
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:209
 msgid "You shall not regret helping me."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:240
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:232
 msgid ""
 "Praise be! It's safe to come out. Please, let me join you in thanks for your "
 "rescue."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:244
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:236
 msgid "Welcome to our company."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:263
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:255
 msgid "You said you'd protect me! Help!"
 msgstr ""
 
