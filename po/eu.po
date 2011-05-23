@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-12 14:25+0200\n"
+"POT-Creation-Date: 2011-05-23 19:53+0200\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid ""
 "When the construction of a dam threatens the existence of her home, Kylix is "
 "forced on a journey to stop it.\n"
-"(Intermediate level, 11 scenarios.)"
+"(Intermediate level, 10-11 scenarios.)"
 msgstr ""
 
 #. [campaign]: id=Swamp_Rage
@@ -1620,8 +1620,8 @@ msgstr ""
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:160
 msgid ""
-"And with a rest, our troops will be stronger. We cannot appear weak before "
-"potential allies."
+"And with a rest, our weakling followers will be stronger. Saurians, keep "
+"active. We must not appear weak before our allies."
 msgstr ""
 
 #. [message]: speaker=ArKasan
@@ -1654,7 +1654,7 @@ msgstr ""
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:184
 msgid ""
-"They rise at its command—ßmaybe they shall also fall without it. Strike for "
+"They rise at its command—maybe they shall also fall without it. Strike for "
 "the leader and we shall put this theory to the test!"
 msgstr ""
 
@@ -1676,19 +1676,19 @@ msgid "You shall not regret helping me."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:232
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:243
 msgid ""
 "Praise be! It's safe to come out. Please, let me join you in thanks for your "
 "rescue."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:236
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:247
 msgid "Welcome to our company."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:255
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:269
 msgid "You said you'd protect me! Help!"
 msgstr ""
 
@@ -1861,7 +1861,7 @@ msgid "Only a faerie may use this item."
 msgstr ""
 
 #. [effect]: type=arcane
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:503
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:505
 msgid "touch"
 msgstr ""
 
@@ -2181,25 +2181,30 @@ msgstr ""
 msgid "We need to keep moving. Footpads should be able to keep up with us."
 msgstr ""
 
+#. [option]: speaker=Isarras
+#: Roar_of_the_Woses/utils/misc.cfg:93
+msgid "We have enough allies already. It is time to strike!"
+msgstr ""
+
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/utils/misc.cfg:97
+#: Roar_of_the_Woses/utils/misc.cfg:115
 msgid "Now, on to the dam! All those in our way shall fall!"
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/utils/misc.cfg:101
+#: Roar_of_the_Woses/utils/misc.cfg:119
 msgid ""
 "You're going to the dam? And planning on fighting through everyone? You're "
 "crazy!"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/utils/misc.cfg:105
+#: Roar_of_the_Woses/utils/misc.cfg:123
 msgid "It's the only way we can get to the dam. We have no choice."
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/utils/misc.cfg:109
+#: Roar_of_the_Woses/utils/misc.cfg:127
 msgid ""
 "But there's another way. My ancestors and I lived under the hills and dug "
 "many tunnels and mines. One of them exits very near the dam. My relatives "
@@ -2209,18 +2214,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/utils/misc.cfg:113
+#: Roar_of_the_Woses/utils/misc.cfg:131
 msgid "Is that so? Where is the entrance to this mine you speak of?"
 msgstr ""
 
 #. [message]: speaker=Ignavus
-#: Roar_of_the_Woses/utils/misc.cfg:117
+#: Roar_of_the_Woses/utils/misc.cfg:135
 msgid ""
 "The closest entrance is concealed within a small cave on the eastern edge of "
 "the hills. A small waterfall flows out of it, discouraging exploration."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/utils/misc.cfg:121
+#: Roar_of_the_Woses/utils/misc.cfg:139
 msgid "We have no fear of water. Lead us to it!"
 msgstr ""
