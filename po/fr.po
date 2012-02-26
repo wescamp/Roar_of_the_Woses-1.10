@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-26 17:25-0500\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2012-01-19 18:46+0100\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. [scenario]: id=11_The_Roar_of_the_Woses
 #. [campaign]: id=Swamp_Rage
 #. [editor_group]: id=rotw
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:25
+#. [scenario]: id=11_The_Roar_of_the_Woses
 #: Roar_of_the_Woses/_main.cfg:9 Roar_of_the_Woses/_main.cfg:41
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:25
 msgid "The Roar of the Woses"
 msgstr "Le Rugissement des Woses"
 
@@ -26,7 +26,7 @@ msgid "RotW"
 msgstr "RdW"
 
 #. [campaign]: id=Swamp_Rage
-#: Roar_of_the_Woses/_main.cfg:15
+#: Roar_of_the_Woses/_main.cfg:14
 msgid ""
 "When the construction of a dam threatens the existence of her home, Kylix is "
 "forced on a journey to stop it.\n"
@@ -85,7 +85,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:20
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:26
 msgid ""
 "Kylix was a junior female in a large tribe dwelling in the Bitter Swamp. In "
 "547 YW a spectatular meteor shower prompted the tribe's diviners to declare "
@@ -95,267 +95,267 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:23
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:35
 msgid ""
 "While there were occasional conflicts with others in the swamp, Kylix's "
 "tribe was free to grow, and even make raids on some scattered human farms."
 msgstr ""
 
 #. [part]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:26
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:54
 msgid ""
 "Early in 552 YW, a naga clan came upriver, contesting with Kylix for control "
 "of the river."
 msgstr ""
 
-#. [side]: type=Saurian Skirmisher, id=Kylix
-#. [side]: type=Saurian Flanker, id=Kylix
 #. [side]: type=Saurian Ambusher, id=Kylix
-#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:479
-#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:23
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:33
-#: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:58
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:26
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:45
-#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:24
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:27
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:45
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:25
+#. [side]: type=Saurian Flanker, id=Kylix
+#. [side]: type=Saurian Skirmisher, id=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:26
+#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:23
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:68
+#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:479
+#: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:58
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:45
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:27
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:26
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:61
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:25
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:24
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:61
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:68
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:45
+#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:24
 msgid "Kylix"
 msgstr "Kylix"
 
-#. [side]: type=Saurian Skirmisher, id=Kylix
-#. [side]: type=Saurian Flanker, id=Kylix
 #. [side]: type=Saurian Ambusher, id=Kylix
-#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:494
-#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:38
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:48
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:40
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:59
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:41
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:59
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:39
+#. [side]: type=Saurian Flanker, id=Kylix
+#. [side]: type=Saurian Skirmisher, id=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:41
+#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:38
+#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:494
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:59
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:41
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:40
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:76
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:39
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:39
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:76
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:59
 msgid "team_name^Saurians"
 msgstr "Les Sauriens"
 
 #. [side]: type=Naga Fighter, id=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:53
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:81
 msgid "Isarras"
 msgstr "Isarras"
 
 #. [side]: type=Naga Fighter, id=Isarras
 #. [modify_side]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:79
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:242
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:107
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:270
 msgid "team_name^Naga"
 msgstr "Naga"
 
 #. [side]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:90
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:118
 msgid "team_name^Farmers"
 msgstr ""
 
 #. [side]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:101
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:129
 msgid "team_name^Orc Farmers"
 msgstr ""
 
 #. [objective]: condition=win
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:115
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:143
 msgid "Defeat Isarras"
 msgstr "Vaincre Isarras"
 
 #. [objective]: condition=lose
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:107
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:262
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:172
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:123
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:384
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:432
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:119
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:251
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:176
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:142
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:164
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:109
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:279
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:111
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:137
+#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:103
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:192
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:130
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:109
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:139
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:142
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:164
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:176
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:111
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:137
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:107
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:262
-#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:103
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:192
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:172
 msgid "Death of Kylix"
 msgstr "Mort de Kylix"
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:131
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:159
 msgid "Stay away, Naga. This part of the swamp belongs to us."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:135
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:163
 msgid ""
 "Then we shall fight you for it, for our home downstream has dried up and "
 "hordes of humans have moved in. We need a new land."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:174
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:202
 msgid ""
 "Peasants, this is your new land. A good supply of water, fertile, just a "
 "little too wet. But that will soon change."
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:203
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:231
 msgid "Not so fast! This land is orcish territory, not human."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:207
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:235
 msgid "We're the ones clearing it, not you."
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:211
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:239
 msgid "We'll be the ones clearing it — of you!"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:220
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:248
 msgid ""
 "They're here too! Come Kylix, let us fight them together or there will be no "
 "space left for either of us."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:224
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:252
 msgid "This doesn't mean you get to stay here."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:228
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:256
 msgid ""
 "We can fight about who lives here later. If we don't work together now, "
 "neither of us will have this land."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:232
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:260
 msgid "Then we have a truce until they are gone."
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:236
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:264
 msgid "Agreed."
 msgstr "D'accord."
 
 #. [objective]: condition=win
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:247
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:275
 msgid "Defeat both enemy leaders"
 msgstr "Vaincre les deux chefs ennemis"
 
 #. [objective]: condition=lose
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:111
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:266
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:176
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:127
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:388
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:436
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:255
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:180
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:146
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:168
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:113
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:115
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:141
+#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:107
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:196
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:134
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:113
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:143
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:146
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:168
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:180
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:115
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:141
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:111
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:266
-#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:107
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:196
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:176
 msgid "Death of Isarras"
 msgstr "Mort d'Isarras"
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:274
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:302
 msgid "My death doesn't matter. The dam will dry this swamp up."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:284
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:312
 msgid "Dam?"
 msgstr "Barrage ?"
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:288
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:316
 msgid "An ominous construct. I'll explain when we have dealt the the orcs."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:304
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:332
 msgid ""
 "So, saurians, are you going to help us, or just cower while we do the dying?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:318
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:367
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:346
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:395
 msgid "I'm being attacked!"
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:328
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:356
 msgid ""
 "Can't handle a little swamp vermin? Why don't you just leave this to us?"
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:339
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:367
 msgid ""
 "They're attacking the humans too? Alright then, ignore the humans for now, "
 "no sense in wasting effort."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:343
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:371
 msgid "The orcs stopped attacking. Let's focus on the saurians for now."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:377
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:405
 msgid "Look at that! The orcs are having problems with the wildlife."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:388
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:416
 msgid ""
 "The saurians are attacking everyone. Focus on the saurians, we can deal with "
 "the orcs later."
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:392
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:420
 msgid ""
 "The humans aren't attacking. Let's clear these swamps before we bother with "
 "them."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:421
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:449
 msgid "We've driven them off for now, but what's a dam?"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:425
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:453
 msgid ""
 "A dam is a wall to block water. If the humans are building them, that "
 "explains why our land dried up. Soon this swamp will become farmland and "
@@ -363,7 +363,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:429
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:457
 msgid ""
 "Then I shall destroy it! Isarras, would you like to accompany me upstream? "
 "I'll grant you land in my territory until water is restored to your home "
@@ -371,7 +371,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:433
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:461
 msgid "You have yourself a deal. And my troops will join you as well."
 msgstr ""
 
@@ -449,7 +449,7 @@ msgid "Destroy the village quickly. We have no time to waste."
 msgstr ""
 
 #. [message]: id=Kylix
-#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:222
+#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:224
 msgid "That should slow construction for now. Everyone, retreat while we can."
 msgstr ""
 
@@ -581,8 +581,8 @@ msgstr "Torque de Commandement"
 
 #. [object]: id=object_torc
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:610
-msgid ""
-"The Torc of Leadership grants you the power to lead new recruits in battle."
+#, fuzzy
+msgid "The Torc of Leadership grants you the power to lead others in battle."
 msgstr ""
 "La Torque de Commandement vous permet de diriger les nouvelles recrues dans "
 "la bataille."
@@ -850,10 +850,10 @@ msgid ""
 "to Lintanir forest to find the Woses."
 msgstr ""
 
-#. [side]: type=General, id=Kadras
 #. [side]: type=Orcish Warlord, id=Kadras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:45
+#. [side]: type=General, id=Kadras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:46
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:45
 msgid "Kadras"
 msgstr "Kadras"
 
@@ -1038,7 +1038,7 @@ msgid "Any cavalry unit reaches the south end of the road"
 msgstr "Une unité de la cavalerie ennemie atteint l'extrémité sud de la route"
 
 #. [message]: speaker=Kadras
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:134
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:132
 msgid ""
 "I thought Tugarth had dealt with you. Evidently I was wrong. I will not risk "
 "letting you escape twice.\n"
@@ -1249,10 +1249,10 @@ msgid "Death of Gulthamos"
 msgstr "Mort de Gulthamos"
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
-#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:121
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:150
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:123
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
+#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:121
 msgid "Death of Ignavus"
 msgstr "Mort d'Ignavus"
 
@@ -1388,9 +1388,9 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:331
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:246
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:409
+#: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:331
 msgid "We still have time to recruit one more ally. Who would you prefer?"
 msgstr ""
 
@@ -2063,7 +2063,7 @@ msgid "female^sacrifice"
 msgstr ""
 
 #. [dummy]: id=sacrifice
-#: Roar_of_the_Woses/units/Haruspex.cfg:12
+#: Roar_of_the_Woses/units/Haruspex.cfg:11
 msgid ""
 "Sacrifice:\n"
 "This attack heals adjacent allies for one third of the damage dealt to a "
