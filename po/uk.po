@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:23+0100\n"
+"POT-Creation-Date: 2012-04-14 02:12-0400\n"
 "PO-Revision-Date: 2012-02-22 00:19+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -109,37 +109,37 @@ msgstr ""
 #. [side]: type=Saurian Ambusher, id=Kylix
 #. [side]: type=Saurian Flanker, id=Kylix
 #. [side]: type=Saurian Skirmisher, id=Kylix
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:26
-#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:23
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:68
-#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:479
-#: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:58
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:45
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:27
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:26
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:61
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:25
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:24
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:61
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:45
+#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:479
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:68
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:26
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:26
+#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:23
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:25
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:24
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:27
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:45
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:61
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:45
+#: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:58
 msgid "Kylix"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, id=Kylix
 #. [side]: type=Saurian Flanker, id=Kylix
 #. [side]: type=Saurian Skirmisher, id=Kylix
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:41
-#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:38
-#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:494
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:59
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:41
-#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:40
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:76
-#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:39
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:39
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:76
+#: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:494
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:41
+#: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:40
+#: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:38
+#: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:39
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:41
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:59
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:76
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:59
 msgid "team_name^Saurians"
 msgstr ""
 
@@ -148,15 +148,18 @@ msgstr ""
 msgid "Isarras"
 msgstr ""
 
-#. [side]: type=Naga Fighter, id=Isarras
 #. [modify_side]
+#. [side]: type=Naga Fighter, id=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:107
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:270
 msgid "team_name^Naga"
 msgstr ""
 
+#. [modify_side]
 #. [side]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:118
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:376
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:426
 msgid "team_name^Farmers"
 msgstr ""
 
@@ -171,25 +174,25 @@ msgid "Defeat Isarras"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:107
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:262
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:172
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:279
+#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:103
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:123
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:384
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:432
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:176
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:142
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:164
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:172
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:107
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:262
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:109
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:279
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:111
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:137
-#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:103
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:192
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:130
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:109
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:139
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:142
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:164
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:130
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:192
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:176
 msgid "Death of Kylix"
 msgstr ""
 
@@ -262,24 +265,24 @@ msgid "Defeat both enemy leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:111
-#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:266
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:176
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
+#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:107
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:127
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:388
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:436
-#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:180
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:146
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:168
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:176
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:111
+#: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:266
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:113
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:115
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:141
-#: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:107
-#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:196
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:134
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:113
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:143
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:146
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:168
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:134
+#: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:196
+#: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:180
 msgid "Death of Isarras"
 msgstr ""
 
@@ -306,7 +309,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:346
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:395
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:396
 msgid "I'm being attacked!"
 msgstr ""
 
@@ -329,31 +332,31 @@ msgid "The orcs stopped attacking. Let's focus on the saurians for now."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:405
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:406
 msgid "Look at that! The orcs are having problems with the wildlife."
 msgstr ""
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:416
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:417
 msgid ""
 "The saurians are attacking everyone. Focus on the saurians, we can deal with "
 "the orcs later."
 msgstr ""
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:420
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:421
 msgid ""
 "The humans aren't attacking. Let's clear these swamps before we bother with "
 "them."
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:449
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:451
 msgid "We've driven them off for now, but what's a dam?"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:453
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
 msgid ""
 "A dam is a wall to block water. If the humans are building them, that "
 "explains why our land dried up. Soon this swamp will become farmland and "
@@ -361,7 +364,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:457
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
 msgid ""
 "Then I shall destroy it! Isarras, would you like to accompany me upstream? "
 "I'll grant you land in my territory until water is restored to your home "
@@ -369,7 +372,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:461
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
 msgid "You have yourself a deal. And my troops will join you as well."
 msgstr ""
 
@@ -451,8 +454,8 @@ msgstr ""
 msgid "That should slow construction for now. Everyone, retreat while we can."
 msgstr ""
 
-#. [settings]
 #. [scenario]: id=03_Into_the_Depths
+#. [settings]
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:82
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:98
 msgid "Into the Depths"
@@ -597,10 +600,10 @@ msgstr ""
 msgid "A few days later..."
 msgstr ""
 
-#. [side]: type=Saurian Ambusher, id=Kylix
 #. [side]: type=Drake Flameheart, id=Arkax
+#. [side]: type=Saurian Ambusher, id=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:83
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:129
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:146
 msgid "team_name^Egg Defenders"
 msgstr ""
 
@@ -609,21 +612,21 @@ msgstr ""
 msgid "Rabor"
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Rabor
 #. [side]: type=Orcish Warlord, id=Porthak
+#. [side]: type=Orcish Warlord, id=Rabor
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:112
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:145
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:129
 msgid "team_name^Egg Thieves"
 msgstr ""
 
-#. [side]: type=Drake Flameheart, id=Arkax
+#. [side]: type=Orcish Warlord, id=Porthak
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:119
-msgid "Arkax"
+msgid "Porthak"
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Porthak
-#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:135
-msgid "Porthak"
+#. [side]: type=Drake Flameheart, id=Arkax
+#: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:136
+msgid "Arkax"
 msgstr ""
 
 #. [objective]: condition=win
@@ -845,8 +848,8 @@ msgid ""
 "to Lintanir forest to find the Woses."
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Kadras
 #. [side]: type=General, id=Kadras
+#. [side]: type=Orcish Warlord, id=Kadras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:46
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:45
 msgid "Kadras"
@@ -1244,10 +1247,10 @@ msgid "Death of Gulthamos"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:150
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:123
-#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:121
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:150
+#: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
 msgid "Death of Ignavus"
 msgstr ""
 
@@ -1383,9 +1386,9 @@ msgid ""
 msgstr ""
 
 #. [then]
-#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:246
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:409
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:331
+#: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:246
 msgid "We still have time to recruit one more ally. Who would you prefer?"
 msgstr ""
 
@@ -1400,8 +1403,8 @@ msgid ""
 "While finding the highwaymen was easy, their desire to help was lacking."
 msgstr ""
 
-#. [side]: type=Saurian Flanker, id=Kylix
 #. [side]: type=Bandit, id=Larhyn
+#. [side]: type=Saurian Flanker, id=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:38
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:72
 msgid "team_name^Highwaymen"
@@ -1604,8 +1607,8 @@ msgstr ""
 msgid "Ar'Kasan"
 msgstr ""
 
-#. [side]: type=Lich, id=ArKasan
 #. [side]: type=Death Knight, id={ID}
+#. [side]: type=Lich, id=ArKasan
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:74
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:90
 msgid "team_name^Undead"
@@ -1880,8 +1883,8 @@ msgstr ""
 msgid "Macharan"
 msgstr ""
 
-#. [side]: type=Grand Marshal, id=Macharan
 #. [side]: type=General, id={ID}
+#. [side]: type=Grand Marshal, id=Macharan
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:74
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:91
 msgid "team_name^Wesnoth"
