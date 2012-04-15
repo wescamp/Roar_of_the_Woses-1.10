@@ -1,16 +1,18 @@
+# Németi Barna <greeneyelink@gmx.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-04-14 02:12-0400\n"
-"PO-Revision-Date: 2011-02-21 15:36+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2012-04-10 11:08+0200\n"
+"Last-Translator: Németi Barna <greeneyelink@gmx.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.0\n"
 
 #. [campaign]: id=Swamp_Rage
 #. [editor_group]: id=rotw
@@ -18,12 +20,12 @@ msgstr ""
 #: Roar_of_the_Woses/_main.cfg:9 Roar_of_the_Woses/_main.cfg:41
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:25
 msgid "The Roar of the Woses"
-msgstr ""
+msgstr "A pusztító fapásztorok"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:10
 msgid "RotW"
-msgstr ""
+msgstr "APF"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:14
@@ -32,46 +34,49 @@ msgid ""
 "forced on a journey to stop it.\n"
 "(Intermediate level, 10-11 scenarios.)"
 msgstr ""
+"Amikor egy gátépítés az otthonát veszélyezteti, Kylix kénytelen útnak "
+"indulni, hogy elhárítsa a fenyegetést.\n"
+"(Középhaladó szint, 10-11 pálya.)"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:18
 msgid "Skirmisher"
-msgstr ""
+msgstr "Portyázó"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:18
 msgid "(easy)"
-msgstr ""
+msgstr "(könnyű)"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:19
 msgid "(normal)"
-msgstr ""
+msgstr "(átlagos)"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:19
 msgid "Ambusher"
-msgstr ""
+msgstr "Rajtaütő"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:20
 msgid "(hard)"
-msgstr ""
+msgstr "(nehéz)"
 
 #. [campaign]: id=Swamp_Rage
 #: Roar_of_the_Woses/_main.cfg:20
 msgid "Flanker"
-msgstr ""
+msgstr "Megkerülő"
 
 #. [about]
 #: Roar_of_the_Woses/_main.cfg:24
 msgid "Campaign Design"
-msgstr ""
+msgstr "Hadjárat kialakítása"
 
 #. [scenario]: id=01_Oxbow_Swamp
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:5
 msgid "Oxbow Swamp"
-msgstr ""
+msgstr "Oxbow-mocsár"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:17
@@ -80,6 +85,9 @@ msgid ""
 "more than rapidly crumbling mud huts behind. Some however, leave a greater "
 "legacy."
 msgstr ""
+"A gyík törzsek folyamatosan növekszenek, szétválnak és meghalnak. Legtöbbjük "
+"nem hagy több nyomot maga után, mint a gyorsan málló sárkunyhók. Mások "
+"viszont nagyobb örökséget adnak tovább az utókornak."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:26
@@ -90,6 +98,12 @@ msgid ""
 "permitted to leave with her and her new tribe was pushed north to a river on "
 "the edge of the swamp."
 msgstr ""
+"Kylix egy fiatal nőstény volt a Keserű-mocsárban lakozó egyik nagy törzsben. "
+"A wesnothi időszámítás 547. évében egy látványos meteoreső arra indította a "
+"törzs jósait, hogy új fészekalj létrehozását jelentsék be. Kylixet "
+"választották ki a feladat végrehajtására. Csak keveseknek engedtetett meg, "
+"hogy útra keljenek vele. Az új törzs észak felé indult, a folyóhoz, a mocsár "
+"határára."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:35
@@ -97,13 +111,19 @@ msgid ""
 "While there were occasional conflicts with others in the swamp, Kylix's "
 "tribe was free to grow, and even make raids on some scattered human farms."
 msgstr ""
+"Néha-néha akadtak konfliktusok a mocsár többi lakóival, de Kylix törzse "
+"szabadon növekedhetett, olyannyira, hogy néha még egy-egy elszórt emberi "
+"településen is rajtaütöttek."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:54
+#, fuzzy
 msgid ""
 "Early in 552 YW, a naga clan came upriver, contesting with Kylix for control "
 "of the river."
 msgstr ""
+"A wesnothi időszámítás 552. évének tavaszán egy naga klán jött fel a folyón, "
+"és elindult a vetélkedés a folyó birtoklásáért."
 
 #. [side]: type=Saurian Ambusher, id=Kylix
 #. [side]: type=Saurian Flanker, id=Kylix
@@ -123,7 +143,7 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:45
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:58
 msgid "Kylix"
-msgstr ""
+msgstr "Kylix"
 
 #. [side]: type=Saurian Ambusher, id=Kylix
 #. [side]: type=Saurian Flanker, id=Kylix
@@ -140,19 +160,19 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:76
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:59
 msgid "team_name^Saurians"
-msgstr ""
+msgstr "Gyíkok"
 
 #. [side]: type=Naga Fighter, id=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:81
 msgid "Isarras"
-msgstr ""
+msgstr "Isarras"
 
 #. [modify_side]
 #. [side]: type=Naga Fighter, id=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:107
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:270
 msgid "team_name^Naga"
-msgstr ""
+msgstr "Nagák"
 
 #. [modify_side]
 #. [side]
@@ -160,17 +180,17 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:376
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:426
 msgid "team_name^Farmers"
-msgstr ""
+msgstr "Telepesek"
 
 #. [side]
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:129
 msgid "team_name^Orc Farmers"
-msgstr ""
+msgstr "Ork telepesek"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:143
 msgid "Defeat Isarras"
-msgstr ""
+msgstr "Legyőzöd Isarrast"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
@@ -193,12 +213,13 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:192
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:176
 msgid "Death of Kylix"
-msgstr ""
+msgstr "Kylix elesik"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:159
 msgid "Stay away, Naga. This part of the swamp belongs to us."
 msgstr ""
+"Tartsátok távol magatokat, nagák! A mocsárnak ez a része a mi területünk!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:163
@@ -206,6 +227,8 @@ msgid ""
 "Then we shall fight you for it, for our home downstream has dried up and "
 "hordes of humans have moved in. We need a new land."
 msgstr ""
+"Akkor harcolni fogunk érte. Az otthonunk a folyó alsó folyásánál kiszáradt, "
+"és emberek hordái költöztek oda. Új hazára van szükségünk."
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:202
@@ -213,21 +236,24 @@ msgid ""
 "Peasants, this is your new land. A good supply of water, fertile, just a "
 "little too wet. But that will soon change."
 msgstr ""
+"Parasztok, ez az új földetek. A folyó jó vizet ad, és a föld termékeny, csak "
+"egy kicsit nedves. De ez hamarosan meg fog változni."
 
 #. [message]: speaker=OrcCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:231
 msgid "Not so fast! This land is orcish territory, not human."
 msgstr ""
+"Nem eszik olyan forrón a kását! Ez itt az orkok területe, nem az embereké!"
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:235
 msgid "We're the ones clearing it, not you."
-msgstr ""
+msgstr "Mi leszünk, akik megtisztítják, nem pedig ti!"
 
 #. [message]: speaker=OrcCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:239
 msgid "We'll be the ones clearing it — of you!"
-msgstr ""
+msgstr "Mi fogjuk megtisztítani – tőletek!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:248
@@ -235,11 +261,13 @@ msgid ""
 "They're here too! Come Kylix, let us fight them together or there will be no "
 "space left for either of us."
 msgstr ""
+"Hát ezek is itt vannak! Kylix, együttesen kell harcolnunk ellenük, vagy "
+"egyikünk számára sem marad itt hely."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:252
 msgid "This doesn't mean you get to stay here."
-msgstr ""
+msgstr "Ez nem jelenti azt, hogy itt maradhattok. "
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:256
@@ -247,21 +275,23 @@ msgid ""
 "We can fight about who lives here later. If we don't work together now, "
 "neither of us will have this land."
 msgstr ""
+"Később harcolhatunk azért, hogy ki lakjon itt. De ha most nem lépünk  "
+"szövetségre, egyikünk sem fogja tudni megtartani ezt a földet."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:260
 msgid "Then we have a truce until they are gone."
-msgstr ""
+msgstr "Akkor fegyverszünetet kötünk, amíg ezeket el nem űztük."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:264
 msgid "Agreed."
-msgstr ""
+msgstr "Rendben."
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:275
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Legyőzöd mindkét ellenséges vezért"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
@@ -283,40 +313,44 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:196
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:180
 msgid "Death of Isarras"
-msgstr ""
+msgstr "Isarras elesik"
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:302
 msgid "My death doesn't matter. The dam will dry this swamp up."
-msgstr ""
+msgstr "Az én halálom mit sem számít. A gát majd kiszárítja ezt a mocsárt."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:312
 msgid "Dam?"
-msgstr ""
+msgstr "Gát?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:316
 msgid "An ominous construct. I'll explain when we have dealt the the orcs."
-msgstr ""
+msgstr "Sötét építmény. Megmagyarázom, ha majd legyőztük az orkokat."
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:332
 msgid ""
 "So, saurians, are you going to help us, or just cower while we do the dying?"
 msgstr ""
+"Szóval, gyíkok, segítetek nekünk, vagy csak lapultok, amíg mi az életünket "
+"áldozzuk?"
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:346
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:396
 msgid "I'm being attacked!"
-msgstr ""
+msgstr "Megtámadtak!"
 
 #. [message]: speaker=OrcCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:356
 msgid ""
 "Can't handle a little swamp vermin? Why don't you just leave this to us?"
 msgstr ""
+"Nem tudsz elbánni egy kis mocsári féreggel? Jobb lesz, ha ránk bízod ezt az "
+"ügyet!"
 
 #. [message]: speaker=OrcCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:367
@@ -324,16 +358,18 @@ msgid ""
 "They're attacking the humans too? Alright then, ignore the humans for now, "
 "no sense in wasting effort."
 msgstr ""
+"Az embereket is megtámadják? Rendben, akkor hagyjuk most az embereket, ne "
+"pazaroljuk az erőnket!"
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:371
 msgid "The orcs stopped attacking. Let's focus on the saurians for now."
-msgstr ""
+msgstr "Az orkok beszüntették a támadást. Koncentráljuk erőinket a gyíkokra!"
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:406
 msgid "Look at that! The orcs are having problems with the wildlife."
-msgstr ""
+msgstr "Nézzenek oda! Az orkoknak problémái akadtak a vadvilággal!"
 
 #. [message]: speaker=FarmCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:417
@@ -341,6 +377,8 @@ msgid ""
 "The saurians are attacking everyone. Focus on the saurians, we can deal with "
 "the orcs later."
 msgstr ""
+"A gyíkok egyformán támadnak mindenkit. Koncentráljunk most a gyíkokra! Az "
+"orkokat majd elintézzük később."
 
 #. [message]: speaker=OrcCommand
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:421
@@ -348,11 +386,13 @@ msgid ""
 "The humans aren't attacking. Let's clear these swamps before we bother with "
 "them."
 msgstr ""
+"Az emberek beszüntették a támadást. Mielőtt velük bajlódnánk, tisztítsuk meg "
+"ezt a mocsarat!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:451
 msgid "We've driven them off for now, but what's a dam?"
-msgstr ""
+msgstr "Elűztük őket egy időre, de mi az a gát?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
@@ -361,6 +401,9 @@ msgid ""
 "explains why our land dried up. Soon this swamp will become farmland and "
 "there will be no place for you here."
 msgstr ""
+"A gát egy fal, ami elállja a víz útját. Ha ezeket az emberek építik, akkor "
+"már értem, miért száradt ki az otthonunk. Nemsokára ebből a mocsárból "
+"szántóföld lesz, és akkor nem lesz itt helyetek."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
@@ -369,16 +412,19 @@ msgid ""
 "I'll grant you land in my territory until water is restored to your home "
 "should you accept."
 msgstr ""
+"Akkor elpusztítom! Isarras, velem tartasz a folyó felső folyásához? Ha "
+"elfogadod az ajánlatomat, akkor letelepedhetsz a területemen addig, amíg a "
+"víz visszatér az otthonodba."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
 msgid "You have yourself a deal. And my troops will join you as well."
-msgstr ""
+msgstr "Elfogadom az ajánlatod. És a csapataim is rendelkezésedre állnak."
 
 #. [scenario]: id=02_Dam_Delay
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:5
 msgid "Dam Delay"
-msgstr ""
+msgstr "Késedelem a gátnál"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:17
@@ -386,31 +432,33 @@ msgid ""
 "Kylix and Isarras travelled upstream into the Estmark hills. There they "
 "found a large camp of humans building a dam across the river."
 msgstr ""
+"Kylix és Isarras felmentek a folyó felső folyásához, az Estmark-hegységbe. "
+"Ott a gátat építő emberek hatalmas táborát találták."
 
 #. [side]: type=Shock Trooper, id=Hargrave
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:44
 msgid "Hargrave"
-msgstr ""
+msgstr "Hargrave"
 
 #. [side]: type=Shock Trooper, id=Hargrave
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:57
 msgid "team_name^Dam Workers"
-msgstr ""
+msgstr "Gátépítők"
 
 #. [event]
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:81
 msgid "Caw"
-msgstr ""
+msgstr "Caw"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:99
 msgid "Destroy $destruction_target| enemy villages"
-msgstr ""
+msgstr "Elpusztítasz $destruction_target| ellenséges falut"
 
 #. [message]: id=Kylix
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:139
 msgid "So that is a dam. It looks harmless."
-msgstr ""
+msgstr "Szóval ez az a gát. Ártalmatlannak látszik."
 
 #. [message]: id=Isarras
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:143
@@ -418,11 +466,14 @@ msgid ""
 "See all the peasants bustling around it? When they are finished, it will "
 "cross the entire river and no water will pass."
 msgstr ""
+"Látod a parasztokat, akik ott nyüzsögnek körülötte? Ha befejezték, akkor át "
+"fog érni az egész folyón, és a víz nem juthat át rajta."
 
 #. [message]: id=Kylix
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:147
 msgid "Kill them all and destroy the dam! They shall not stop our river!"
 msgstr ""
+"Öljük meg mind, és pusztítsuk el a gátat! Nem fogják megállítani a folyónkat!"
 
 #. [message]: id=Isarras
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:151
@@ -430,6 +481,8 @@ msgid ""
 "We have not the time. The moment we attack, they will surely send for "
 "reinforcements. With our small force, we shall surely be overwhelmed."
 msgstr ""
+"Nincs elég időnk. Ahogy megtámadjuk őket, azonnal erősítést fognak kérni. "
+"Kicsi az erőnk, így biztosan fölébünk kerekednek."
 
 #. [message]: id=Kylix
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:155
@@ -437,28 +490,32 @@ msgid ""
 "Then destroy the villages. Without ready access to supplies, they'll be "
 "forced to delay, giving us time to find a better solution."
 msgstr ""
+"Akkor pusztítsuk el a falvakat! Ha nincs utánpótlásuk, akkor lelassul az "
+"építkezés, és időt nyerünk hogy találjunk egy jobb megoldást."
 
 #. [message]: id=Caw
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:159
 msgid "Sound the alarm, lizards are attacking!"
-msgstr ""
+msgstr "Húzd meg a vészharangot! A gyíkok megtámadtak minket!"
 
 #. [message]: id=Kylix
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:173
 msgid "Destroy the village quickly. We have no time to waste."
-msgstr ""
+msgstr "Gyorsan pusztítsátok el a falvakat! Nincs vesztegetni való időnk!"
 
 #. [message]: id=Kylix
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:224
 msgid "That should slow construction for now. Everyone, retreat while we can."
 msgstr ""
+"Ezzel egy időre lelassítottuk az építkezést. Vonuljunk vissza, mielőtt késő "
+"lesz."
 
 #. [scenario]: id=03_Into_the_Depths
 #. [settings]
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:82
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:98
 msgid "Into the Depths"
-msgstr ""
+msgstr "Le a mélységekbe"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:88
@@ -468,6 +525,11 @@ msgid ""
 "ambushed many caravans of supplies. Despite all her attacks, Kylix's numbers "
 "were too small for her to do more than slow the pace of construction."
 msgstr ""
+"A zavar ellenére, amit Kylix rajtaütése okozott, a gát építése folytatódott. "
+"A következő hónapokban Kylix többször is rajtaütött az ellátmányt szállító "
+"karavánokon. De minden erőfeszítése ellenére Kylix csapatai túlságosan "
+"kevesen voltak ahhoz, hogy többet elérhessenek, mint az építkezés "
+"lelassítását."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:91
@@ -475,11 +537,13 @@ msgid ""
 "Kylix grew more and more desperate and daring with each raid, until "
 "eventually she failed to call a retreat in time."
 msgstr ""
+"Kylix minden rajtaütéssel egyre kétségbeesettebb és vakmerőbb lett, amíg egy "
+"alkalommal nem tudott idejében visszavonulni."
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:119
 msgid "Escape Tugarth"
-msgstr ""
+msgstr "Megszöksz Tugarth elől"
 
 #. [message]: speaker=Tugarth
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:327
@@ -487,6 +551,8 @@ msgid ""
 "I've found you at last, and you're pinned against a cliff. Prepare to die, "
 "lizards!"
 msgstr ""
+"Megtaláltalak végre, és sarokba vagytok szorítva! Készüljetek a halálra, "
+"gyíkok!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:331
@@ -494,53 +560,58 @@ msgid ""
 "He's so confidant that he has come ahead of the bulk of his army. Even if we "
 "beat him, the rest will slaughter us. What are we to do?"
 msgstr ""
+"Annyira elbizakodott, hogy maga mögött hagyta az emberei javát. Még ha le is "
+"győzzük, az emberei kardélre hánynak minket. Mit tegyünk?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:335
 msgid "There has to be some way out of here!"
-msgstr ""
+msgstr "Kell lennie egy kiútnak innen!"
 
 #. [unit]: id=TrollGuard, type=Troll, type=Troll Warrior
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:347
 msgid "Murg"
-msgstr ""
+msgstr "Murg"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:364
 msgid ""
 "This area has only a few bridges providing access. We should be safe here."
 msgstr ""
+"Ezt a területet csak néhány hídon át lehet megközelíteni. Itt biztonságban "
+"leszünk."
 
 #. [message]: speaker=TrollGuard
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:368
 msgid "This is my home! Stay out!"
-msgstr ""
+msgstr "Ez az én otthonom! Táguljatok!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:372
 msgid "I think someone else had that idea first."
-msgstr ""
+msgstr "Azt hiszem, valaki megelőzött minket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:376
 msgid "Then kill whomever it is!"
-msgstr ""
+msgstr "Akkor öljük meg, bárki is legyen!"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:380
 msgid "Defeat Murg"
-msgstr ""
+msgstr "Legyőzöd Murgot"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:401
 msgid ""
 "The cavern is secure. Let us remain until we have regained our strength."
 msgstr ""
+"Most már biztonságos a barlang. Maradjunk itt, amíg visszanyerjük az erőnket!"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:420
 msgid "Perhaps we can find safety in this cave!"
-msgstr ""
+msgstr "Reméljük, biztonságban leszünk ebben a balangban!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:424
@@ -548,100 +619,103 @@ msgid ""
 "It seems our best chance; we cannot beat Tugarth's forces. Everyone in! The "
 "further we can get from the entrance the better."
 msgstr ""
+"Úgy tűnik, ez a legjobb esélyünk; nem győzhetjük le Tugarth erőit. Mindenki "
+"befelé! Minél távolabb kerülünk a bejárattól, annál jobb."
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:428
 msgid "Explore the cave"
-msgstr ""
+msgstr "Feltárod a barlangot"
 
 #. [message]: speaker=Tugarth
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:453
 msgid "I may die, but my men will destroy you."
-msgstr ""
+msgstr "Én meghalhatok, de az enyéim eplusztítanak titeket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:457
 msgid "We've bought ourselves time, nothing more."
-msgstr ""
+msgstr "Csak időt nyertünk, semmi egyebet."
 
 #. [side]: type=General, id=Tugarth
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:539
 msgid "Tugarth"
-msgstr ""
+msgstr "Tugarth"
 
 #. [side]: type=General, id=Tugarth
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:556
 msgid "team_name^Pursuers"
-msgstr ""
+msgstr "Üldözők"
 
 #. [object]: id=object_torc
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:607
 msgid "Torc of Leadership"
-msgstr ""
+msgstr "Vezéri nyakék"
 
 #. [object]: id=object_torc
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:610
+#, fuzzy
 msgid "The Torc of Leadership grants you the power to lead others in battle."
-msgstr ""
+msgstr "A vezéri nyakékkel irányítani tudod az újoncokat a csatában."
 
 #. [object]: id=object_torc
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:611
 msgid "You cannot use this item."
-msgstr ""
+msgstr "Nem használhatod ezt az eszközt."
 
 #. [scenario]: id=04_The_Steam_Caverns
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:49
 msgid "The Steam Caverns"
-msgstr ""
+msgstr "Gőzbarlangok"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:61
 msgid "A few days later..."
-msgstr ""
+msgstr "Néhány nap múlva..."
 
 #. [side]: type=Drake Flameheart, id=Arkax
 #. [side]: type=Saurian Ambusher, id=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:83
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:146
 msgid "team_name^Egg Defenders"
-msgstr ""
+msgstr "Tojásőrök"
 
 #. [side]: type=Orcish Warlord, id=Rabor
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:102
 msgid "Rabor"
-msgstr ""
+msgstr "Rabor"
 
 #. [side]: type=Orcish Warlord, id=Porthak
 #. [side]: type=Orcish Warlord, id=Rabor
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:112
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:129
 msgid "team_name^Egg Thieves"
-msgstr ""
+msgstr "Tojásrablók"
 
 #. [side]: type=Orcish Warlord, id=Porthak
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:119
 msgid "Porthak"
-msgstr ""
+msgstr "Porthak"
 
 #. [side]: type=Drake Flameheart, id=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:136
 msgid "Arkax"
-msgstr ""
+msgstr "Arkax"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:167
 msgid "Resist until time expires"
-msgstr ""
+msgstr "Kitartasz a körök végéig"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:180
 msgid "Death of Arkax"
-msgstr ""
+msgstr "Arkax elesik"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:184
 msgid "An egg is captured by the enemy"
-msgstr ""
+msgstr "Az ellenfél elrabol egy tojást"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:202
@@ -649,6 +723,8 @@ msgid ""
 "We've been here a few days and there's no sign that the humans want to catch "
 "us here."
 msgstr ""
+"Már itt vagyunk néhány napja, és semmi jele annak, hogy az emberek el "
+"akarnának kapni minket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:206
@@ -656,42 +732,46 @@ msgid ""
 "Good. We'll stay here a bit longer then return to the surface to continue "
 "our raids."
 msgstr ""
+"Remek. Még egy kicsit itt maradunk, aztán visszatérünk a felszínre, és "
+"folytatjuk a rajtaütéseinket."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:210
 msgid ""
 "I don't like that idea. There are too many of them now. I think we should..."
-msgstr ""
+msgstr "Nem tetszik az ötlet. Mostanra már túl sok van belőlük. Azt hiszem..."
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:214
 msgid "*scratch, scratch, scratch*"
-msgstr ""
+msgstr "*hrsh, hrsh, hrsh*"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:219
 msgid "What's that noise?"
-msgstr ""
+msgstr "Mi ez a zaj?"
 
 #. [unit]: id=Gra Korust, type=Drake Burner
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:230
 msgid "Gra Korust"
-msgstr ""
+msgstr "Gra Korust"
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:245
 msgid "More robbers? You shall die with the rest of them!"
-msgstr ""
+msgstr "Még több rabló? Halál vár rátok is, mint a többire!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:249
 msgid "Wait! We are no enemies! We didn't even know you were here."
-msgstr ""
+msgstr "Várj! Mi nem vagyunk az ellenségeid! Azt sem tudtuk, hogy itt vagy."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:253
 msgid "I think you lie. You are here to steal our eggs, just like the others."
 msgstr ""
+"Azt gondolom, hazudtok. Azért jöttetek, hogy elraboljátok a tojásainkat, "
+"mint a többiek."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:257
@@ -699,6 +779,8 @@ msgid ""
 "I would never steal eggs. By the moon, the stars and the sun, I swear that I "
 "hold the eggs of all sacred to their mothers."
 msgstr ""
+"Soha nem lopnék tojásokat! Esküszöm a holdra, a csillagokra és a napra, hogy "
+"számomra minden tojás az anyja szent tulajdona."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:261
@@ -706,11 +788,13 @@ msgid ""
 "Then I ask you to help us, for our eggs are in danger and we are in need of "
 "aid."
 msgstr ""
+"Akkor arra kérlek, hogy segítsetek nekünk, mert a tojásaink veszélyben "
+"vannak, és szükségünk van a segítségre."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:265
 msgid "It is yours for the asking."
-msgstr ""
+msgstr "Segítünk neked, mivel szépen kérted."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:269
@@ -718,31 +802,33 @@ msgid ""
 "Then come quickly, I shall lead you to the battle. May we all be victorious "
 "this day."
 msgstr ""
+"Akkor kövessetek gyorsan, elvezetlek titeket a csatába. Bárcsak miénk "
+"lehetne ma a győzelem!"
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:294
 msgid "Watch the eggs!"
-msgstr ""
+msgstr "Vigyázzatok a tojásokra!"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:308
 msgid "Hey, it looks like there's a passage here!"
-msgstr ""
+msgstr "Nahát, úgy tűnik, az itt egy átjáró!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:320
 msgid "Why didn't you find it on our side?"
-msgstr ""
+msgstr "Hogyhogy nem találtátok meg ezt a mi oldalunkon?"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:333
 msgid "The eggs are ours!"
-msgstr ""
+msgstr "A tojások a mieink!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:350
 msgid "Hey Gra! Why is it so foggy all of a sudden?"
-msgstr ""
+msgstr "Hé, Gra! Mi ez a hirtelen köd?"
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:354
@@ -750,16 +836,18 @@ msgid ""
 "There's a river running into a chasm of lava in our cavern. It creates a lot "
 "of steam."
 msgstr ""
+"A barlangunkban van egy folyó, ami egy lávahasadékba ömlik. Innen száll fel "
+"a gőz."
 
 #. [message]: speaker=Rabor
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:367
 msgid "This is taking too long. Send in the bats!"
-msgstr ""
+msgstr "Így csak az időnket vesztegetjük. Küldjétek rájuk a denevéreket!"
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:386
 msgid "Who will save my children?"
-msgstr ""
+msgstr "Ki fogja megóvni a gyermekeimet?"
 
 #. [message]: speaker=Rabor
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:397
@@ -767,21 +855,25 @@ msgid ""
 "These eggs are better defended than I thought. Everyone retreat! There's no "
 "sense in wasting lives."
 msgstr ""
+"Ezeket a tojásokat jobban védik, mint gondoltam. Mindenki vissza! Nincs "
+"értelme a felesleges véráldozatnak!"
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:425
 msgid "Thank you for helping us protect our eggs."
-msgstr ""
+msgstr "Köszönöm, hogy segítettél megvédeni a tojásainkat."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:429
 msgid "It was our privilege. I must ask if you could possibly help us as well?"
 msgstr ""
+"Miénk a megtiszteltetés. Meg kell kérdeznem, hogy te tudnál-e esetleg nekünk "
+"segíteni?"
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:433
 msgid "Of course we will aid you, if it is in our power."
-msgstr ""
+msgstr "Természetesen segítünk nektek. Megtesszük, ami tőlünk telik."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:437
@@ -789,23 +881,25 @@ msgid ""
 "We have discovered that our home is in danger of drying up because humans "
 "have come to build a dam on our river. Will you help us to destroy this dam?"
 msgstr ""
+"Az otthonunkat a kiszáradás fenyegeti, mert az emberek egy gátat építenek a "
+"folyónkon. Segítetek nekünk elpusztítani a gátat?"
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:441
 msgid ""
 "If it were any other time we would be glad to come with you. But right now, "
 "our eggs..."
-msgstr ""
+msgstr "Bármikor máskor örömmel mennénk veletek. De most ugye a tojásaink..."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:445
 msgid "I understand. We shall have to find others."
-msgstr ""
+msgstr "Értem. Más szövetségeseket kell találnunk."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:454
 msgid "But we have a debt of honor! I, at least, shall go with them."
-msgstr ""
+msgstr "Ez egy becsületbeli kötelesség! Én magam, ha más nem is, velük megyek."
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:458
@@ -815,6 +909,10 @@ msgid ""
 "most likely wish to help you in such a task. I will provide transportation "
 "to where they are likely to be found if you wish."
 msgstr ""
+"Én nem mondtam, hogy nem segítünk! Csatlakozz hozzájuk, áldásom rá. És még "
+"adnék neked egy tanácsot, Kylix. Keresd meg a fapásztorokat, mert ők "
+"valószínűleg segítenek neked egy ilyen vállalkozásban. Ha kívánod, "
+"elvitetlek téged arra a helyre, ahol megtalálhatod őket."
 
 #. [message]: speaker=Arkax
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:464
@@ -824,21 +922,27 @@ msgid ""
 "an abomination to them. Second, I can lend you some of my people to take you "
 "to where they live should you wish to seek their aid."
 msgstr ""
+"De azért némi segítséget fel tudok ajánlani. Először is, információt. A "
+"fapásztorok biztos, hogy segíteni fognak neked, mert a gátépítés egy folyón "
+"utálatos dolog a szemükben. Másodszor, néhány bajtársam elvezet titeket a "
+"földjükre, ha a segítségüket akarjátok kérni."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:470
 msgid "Thank you for your consideration. Of course, we accept."
-msgstr ""
+msgstr "Köszönjük figyelmességedet. Természetesen elfogadjuk."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/04_The_Steam_Caverns.cfg:474
 msgid "I thought I led here. But yes, we accept your offer."
 msgstr ""
+"Azt hittem, én vagyok itt a vezető. Egyébként igen, elfogadjuk az "
+"ajánlatodat."
 
 #. [scenario]: id=05_Lintanir_Forest
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:5
 msgid "Lintanir Forest"
-msgstr ""
+msgstr "A Lintanir-erdő"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:19
@@ -846,28 +950,30 @@ msgid ""
 "Leaving their forces behind, Kylix and Isarras travelled quickly northwards "
 "to Lintanir forest to find the Woses."
 msgstr ""
+"Csapataikat hátrahagyva Kylix és Isarras gyorsan észak felé indultak a "
+"Lintanir erdőbe, hogy megtalálják a fapásztorokat."
 
 #. [side]: type=General, id=Kadras
 #. [side]: type=Orcish Warlord, id=Kadras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:46
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:45
 msgid "Kadras"
-msgstr ""
+msgstr "Kadras"
 
 #. [side]: type=Orcish Warlord, id=Kadras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:57
 msgid "team_name^Pillagers"
-msgstr ""
+msgstr "Fosztogatók"
 
 #. [event]
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:98
 msgid "Orkan"
-msgstr ""
+msgstr "Orkan"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:103
 msgid "Go east to find the Woses"
-msgstr ""
+msgstr "Keletre mész, és megtalálod a fapásztorokat"
 
 #. [message]: speaker=Orkan
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:125
@@ -875,26 +981,28 @@ msgid ""
 "We have arrived at the edge of Lintanir forest, where you might find the "
 "woses."
 msgstr ""
+"Elérkeztünk a Lintanir-erdő szélére. Itt megtalálhatod a fapásztorokat."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:129
 msgid "I never want to fly again!"
-msgstr ""
+msgstr "Soha többé nem akarok repülni!"
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:133
 msgid "But the rush of the air. Is it not glorious?"
-msgstr ""
+msgstr "De ahogyan a szél suhan a pikkelyeken! Hát nem csodálatos?"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:137
 msgid "Enough. I don't see any woses here. Where are they?"
-msgstr ""
+msgstr "Elég legyen! Nem látok egy fapásztort sem! Hol vannak?"
 
 #. [message]: type=Drake Glider
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:141
 msgid "I saw some great trees to the east. I suspect you will find them there."
 msgstr ""
+"Láttam néhány faóriást kelet felé. Az a gyanúm, ott megtalálhatjátok őket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:145
@@ -902,36 +1010,38 @@ msgid ""
 "Then let us be off! My thanks, drakes, for your help getting here. May your "
 "eggs hatch safely."
 msgstr ""
+"Akkor induljunk! Köszönjük, perzsekények, hogy segitettetek eljutnunk idáig. "
+"Kívánjuk, hogy biztonságben keljenek ki a tojásaitok."
 
 #. [message]: speaker=Orkan
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:170
 msgid "Arkax said I should remain to help you."
-msgstr ""
+msgstr "Arkax azt mondta, hogy maradjak veletek, és segítselek titeket."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:174
 msgid "Your aid will be welcome."
-msgstr ""
+msgstr "Köszönettel elfogadjuk a segítségedet."
 
 #. [message]: type=Drake Glider
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:181
 msgid "Fare you well."
-msgstr ""
+msgstr "Isten veletek!"
 
 #. [event]
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:203
 msgid "Rambadindol"
-msgstr ""
+msgstr "Rambadindol"
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:206
 msgid "Who goes there?"
-msgstr ""
+msgstr "Ki jár itt?"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:210
 msgid "We are friends, come looking for your aid."
-msgstr ""
+msgstr "Barátok vagyunk, a segítségeteket kérjük."
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:214
@@ -939,16 +1049,18 @@ msgid ""
 "Friends you say. Hmmm. How can I know you are friends? Friends take time to "
 "develop and you have given me no time."
 msgstr ""
+"Azt mondod, barátok. Hmmm. Honnan tudhatnám, hogy tényleg barátok vagytok-e? "
+"Egy barátság csak idővel alakul ki, és ti nem adtatok nekem időt."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:218
 msgid "Is there some way that we might show you we are friends?"
-msgstr ""
+msgstr "Hogyan tudnánk megmutatni neked, hogy valóban a barátaid vagyunk?"
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:222
 msgid "Ah, hmm..."
-msgstr ""
+msgstr "Hát, hmm..."
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:226
@@ -957,39 +1069,49 @@ msgid ""
 "yesterday, some orcs were spotted approaching from the north west. If you "
 "can keep them from despoiling the forest, I will call you friend."
 msgstr ""
+"Úgy érted, tegyelek próbára? Azt hiszem, van egy megfelelő próbatételem a "
+"számodra. Épp tegnap figyeltünk fel néhány orkra, akik északnyugat felől "
+"közelítettek az erdőnkhöz. Ha meg tudod akadályozni, hogy feldúlják az "
+"erdőt, akkor a barátomnak foglak nevezni."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:230
 msgid "We shall need to set up a base to defeat them."
-msgstr ""
+msgstr "Tábort kell vernünk ahhoz, hogy legyőzhessük őket."
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:234
 msgid "That is acceptable. I will even lend you the aid of the forest to help."
 msgstr ""
+"Ez elfogadható kérés. Sőt, az erdő segítségét is a rendelkezésedre bocsátom."
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:253
+#, fuzzy
 msgid ""
 "You may now recruit Woses and Sprites. Because you are separated from your "
 "army, you cannot recruit or recall additional Saurian or Naga units at this "
 "time."
 msgstr ""
+"Most már fapásztorokat és tündéreket is tudsz toborozni. Mivel távol vagy a "
+"seregedtől, ezért most nem tudsz további gyíkokat vagy nagákat toborozni, "
+"vagy visszahívni."
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:258
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Legyőzöd az ellenséges vezért"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:270
 msgid "Death of Rambadindol"
-msgstr ""
+msgstr "Rambadindol elesik"
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:287
 msgid "Now I know you to be no friend, for you have left me to die."
 msgstr ""
+"Most már tudom, hogy nem vagytok a barátaim, mert hagytatok engem meghalni."
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:298
@@ -997,42 +1119,46 @@ msgid ""
 "If you are so slow to defend the trees, then I am afraid I cannot call you "
 "friend."
 msgstr ""
+"Ha ennyi időbe kerül nektek megvédeni a fákat, akkor attól tartok, nem "
+"nevezhetlek benneteket a barátaimnak."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:307
 msgid "Well, we have done as you asked. Will you aid us?"
-msgstr ""
+msgstr "Megtettük, amit kértél tőlünk. Segítesz nekünk?"
 
 #. [message]: speaker=Rambadindol
 #: Roar_of_the_Woses/scenarios/05_Lintanir_Forest.cfg:311
 msgid "You have shown yourself a true friend. We shall aid you."
-msgstr ""
+msgstr "Igaz barátnak mutatkoztatok. Segítünk nektek."
 
 #. [scenario]: id=06_Race_on_the_Listra
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:5
 msgid "Race on the Listra"
-msgstr ""
+msgstr "Versenyfutás a Listrán"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:19
 msgid ""
 "Having secured the aid of the Woses, Kylix and Isarras journeyed back south."
 msgstr ""
+"Miután biztosították a fapásztorok segítségét, Kylix és Isarras "
+"visszautaztak délre."
 
 #. [side]: type=General, id=Kadras
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:56
 msgid "team_name^Road Guard"
-msgstr ""
+msgstr "Őrök"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:105
 msgid "Defeat Kadras and kill all enemy cavalry"
-msgstr ""
+msgstr "Legyőzöd Kadrast, és megölsz minden ellenséges lovast"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:117
 msgid "Any cavalry unit reaches the south end of the road"
-msgstr ""
+msgstr "Egy lovas eléri az út déli végét"
 
 #. [message]: speaker=Kadras
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:132
@@ -1043,6 +1169,11 @@ msgid ""
 "Scouts, go to Wesnoth and bring everyone you can find. I'll keep them under "
 "observation until you return."
 msgstr ""
+"Azt hittem Tugarth legyőzött titeket. Világos, hogy tévedtem. Nem "
+"kockáztaton meg, hogy még egyszer elmenekülhessetek.\n"
+"\n"
+"Hírvivők, menjetek Wesnothba, és hozzatok magatokkal mindenkit, akit "
+"találtok! Én majd rajtuk tartom a szemem, amíg visszaértek."
 
 #. [message]: race=drake
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:156
@@ -1050,22 +1181,28 @@ msgid ""
 "They are recruiting fast moving scouts to warn of our coming. Let me go "
 "ahead to delay them."
 msgstr ""
+"Gyors hírvivőket toboroznak, hogy figyelmeztessék a többieket. Hadd menjek "
+"előre, hogy késleltessem őket!"
 
 #. [message]: speaker=Kadras
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:202
 msgid "My fort destroyed, my scouts killed. I have failed to warn Wesnoth."
 msgstr ""
+"Az erődömet elpusztították, a hírvivőimet megölték. Nem tudtam "
+"figyelmeztetni Wesnothot."
 
 #. [message]: speaker=Kadras
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:213
 msgid "They have overwhelmed me! Fly for your lives."
-msgstr ""
+msgstr "Legyűrtek minket! Meneküljetek!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:229
 msgid ""
 "Someone managed to escape to warn of our coming. This is going to be bad."
 msgstr ""
+"Valaki elmenekült, és figyelmeztetni fogja a többieket! Ennek nagyon rossz "
+"vége lesz!"
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/scenarios/06_Race_on_the_Listra.cfg:233
@@ -1073,11 +1210,13 @@ msgid ""
 "Isarras's prediction came true. A large Wesnoth force caught Kylix while she "
 "was separated from the rest of her army and killed her."
 msgstr ""
+"Isarras jóslata valóra vált. Egy nagyobb wesnothi haderő elfogta Kylixet, "
+"amikor távol volt a seregétől, és megölték őt."
 
 #. [scenario]: id=07_Laying_Plans
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:5
 msgid "Laying Plans"
-msgstr ""
+msgstr "Tervezgetés"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:16
@@ -1085,21 +1224,25 @@ msgid ""
 "Kylix and Isarras headed south until they returned to their army. There, "
 "they held council to decide their next steps."
 msgstr ""
+"Kylix és Isarras dél felé indultak, és visszatértek a seregeikhez. Ott "
+"megtanácskozták, hogy mi legyen a következő lépésük."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:77
 msgid "We have the aid of the woses, and we have our warriors. Let us attack!"
 msgstr ""
+"A fapásztorok segítenek minket, és ott vannak a saját harcosaink is. "
+"Támadjunk!"
 
 #. [message]: speaker=Orkan
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:81
 msgid "Well said!"
-msgstr ""
+msgstr "Helyes!"
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:85
 msgid "An excellent plan. We shall fall upon them like thunder."
-msgstr ""
+msgstr "Remekbe szabott terv! Mennydörgésként zúdulunk le rájuk."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:89
@@ -1108,11 +1251,14 @@ msgid ""
 "Do you remember how many soldiers Tugarth sent after us? If we attack the "
 "dam directly, we shall surely be defeated."
 msgstr ""
+"Elővigyázatosságot tanácsolok, Kylix. A fapásztorok hatalmasak, de kevesen "
+"vannak. Emlékszel, hány katonát küldött utánunk Tugarth? Ha homlokegyenest "
+"megtámadjuk a gátat, biztosan legyőznek minket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:93
 msgid "I am not about to give up now!"
-msgstr ""
+msgstr "Nem fogom most feladni!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:97
@@ -1120,6 +1266,8 @@ msgid ""
 "Of course not. But we need more allies, ones who are numerous enough to "
 "drive away the army of Wesnoth."
 msgstr ""
+"Persze hogy nem. De további szövetségesekre van szükségünk. Olyanokra, akik "
+"elegen vannak ahhoz, hogy elűzzék Wesnoth hadseregét."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:101
@@ -1127,6 +1275,8 @@ msgid ""
 "The only ones like that are the orcs, and our encounters with them so far do "
 "not make me wish to seek their aid."
 msgstr ""
+"Az egyetlen ilyen fajta az orkok, és amit eddig láttam belőlük, annak "
+"alapján nem szívesen kérném a segítségüket."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:105
@@ -1134,11 +1284,13 @@ msgid ""
 "I was not speaking of orcs. There is another source of large numbers of "
 "troops, and that is the humans."
 msgstr ""
+"Én nem az orkokról beszéltem. Máshonnan is szerezhetünk nagy számú sereget, "
+"mégpedig az emberektől."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:109
 msgid "But they are on the side of Wesnoth!"
-msgstr ""
+msgstr "De ők Wesnoth oldalán állnak!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:113
@@ -1148,6 +1300,10 @@ msgid ""
 "contending against the other. It is my thought that we could find some who "
 "do not side with Wesnoth and use them to supplement our numbers."
 msgstr ""
+"Csakugyan úgy tűnhet, mert akikkel eddig találkoztunk, azok egyesültek "
+"ellenünk, de az emberek, ugyanúgy mint a gyíkok, csoportokra oszlanak, "
+"amelyek harcolnak egymással. Úgy gondolom, találhatunk olyanokat, akik nem "
+"állnak Wesnoth oldalán, és kiegészíthetjük velük sorainkat."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:117
@@ -1155,6 +1311,8 @@ msgid ""
 "But everyone around here seems to be on Wesnoth's side, and we don't have "
 "time to travel far."
 msgstr ""
+"De ezen a vidéken mindenki Wesnoth oldalán áll, és nincs időnk, hogy "
+"messzire utazzunk."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:121
@@ -1163,11 +1321,14 @@ msgid ""
 "outlaws and rogues, and surely would not appreciate the permanent presence "
 "of Wesnoth's army."
 msgstr ""
+"Ez igaz, de ott vannak azok, akik itt élnek, Wesnoth uralmán kívül. Ők a "
+"törvényen kívüliek és a haramiák, és biztosan nem díjaznák a wesnothi "
+"hadsereg állandó jelenlétét."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:125
 msgid "Excellent. Let us go to them and make them join us."
-msgstr ""
+msgstr "Nagyszerű! Látogassuk meg őket, és ajánljuk fel a szövetséget!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:129
@@ -1175,11 +1336,14 @@ msgid ""
 "It is not that simple. They are in many groups and we will only have time to "
 "contact one or two of them. We need to consider carefully whom to appraoch."
 msgstr ""
+"Ez nem ennyire egyszerű. Sok-sok bandában élnek, és nekünk csak arra van "
+"időnk, hogy egy -kettővel felvegyük a kapcsolatot. Alaposan át kell "
+"gondolnunk, hogy kiket környékezzünk meg."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:133
 msgid "I see. What are my choices?"
-msgstr ""
+msgstr "Értem. Mik a lehetőségeim?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:137
@@ -1189,6 +1353,10 @@ msgid ""
 "game. If farmers were to come, many animals would be driven away, forcing "
 "them away as well."
 msgstr ""
+"Az első csapat, akiket megkörnyékezhetünk, az orvvadászok. Számukra ez a "
+"zord vidék ideális vadászterület, idejük legnagyobb részében a vadonban "
+"kóborolnak zsákmány után kutatva. Ha telepesek jönnének ide, azzal elűznék a "
+"vadállomány nagy részét, és az orvvadászokat is velük együtt."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:141
@@ -1197,6 +1365,9 @@ msgid ""
 "here. They will surely find their trade harder to practice if Wesnoth "
 "establishes larger towns."
 msgstr ""
+"A második csoport a rablók és banditák, akik az erre vetődő utazókat "
+"fosztogatják. Biztosan megnehezíti a dolgukat, ha Wesnoth nagyobb városokat "
+"alapít erre."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:145
@@ -1205,16 +1376,19 @@ msgid ""
 "information and supplies to the other groups, and would find the loss of "
 "either of the other two groups undesirable."
 msgstr ""
+"A legutolsó csoport az útonállók. Ők abból élnek, hogy információval és "
+"utánpótlással látják el a másik két csapatot. Egyik elvesztését sem találnák "
+"kívánatosnak."
 
 #. [event]
 #: Roar_of_the_Woses/scenarios/07_Laying_Plans.cfg:151
 msgid "It's your decision, of course."
-msgstr ""
+msgstr "Te döntesz, természetesen."
 
 #. [scenario]: id=08a_Poacher_Rescue
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:5
 msgid "Poacher Rescue"
-msgstr ""
+msgstr "Orvvadászok kiszabadítása"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:18
@@ -1222,28 +1396,30 @@ msgid ""
 "After some searching, Kylix and Isarras found some poachers. However, "
 "someone else had found them first."
 msgstr ""
+"Csekély keresés után Kylix és Isarras megtalálta az orvvadászokat. Sajnos "
+"valaki más már előttük megtalálta őket."
 
 #. [side]: type=Elvish Avenger, id=Amadaras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:44
 msgid "Amadaras"
-msgstr ""
+msgstr "Amadaras"
 
 #. [side]: type=Elvish Avenger, id=Amadaras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:56
 msgid "team_name^Elves"
-msgstr ""
+msgstr "Tündék"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:107
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:133
 msgid "Rescue the poacher leader and return him to your encampment"
-msgstr ""
+msgstr "Kiszabadítod az orvvadászok vezérét, és elviszed a saját táborodba"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:119
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:145
 msgid "Death of Gulthamos"
-msgstr ""
+msgstr "Gulthamos elesik"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:123
@@ -1251,17 +1427,17 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:150
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:143
 msgid "Death of Ignavus"
-msgstr ""
+msgstr "Ignavus elesik"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:173
 msgid "I feel like someone is watching us."
-msgstr ""
+msgstr "Úgy érzem, valaki figyel minket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:177
 msgid "So do I. Perhaps it is because of those elves over there."
-msgstr ""
+msgstr "Én is. Biztosan azok miatt a tündék miatt."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:181
@@ -1269,27 +1445,32 @@ msgid ""
 "And they have captured the people we're looking for. It looks like we'll "
 "have to fight if we want to recruit those poachers."
 msgstr ""
+"És foglyul ejtették az embereket, akiket keresünk. Úgy tűnik, hogy "
+"harcolnunk kell, ha fel akarjuk fogadni azokat az orvvadászokat."
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:197
 msgid "Someone is definitely watching us. I saw movement in the trees."
 msgstr ""
+"Egészen biztos, hogy valaki figyel minket. Mozgást láttam a fák között."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:201
 msgid "Then keep a sharp lookout. They could be dangerous."
-msgstr ""
+msgstr "Akkor tartsd nyitva a szemed. Lehet, hogy veszélyesek."
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:210
 msgid ""
 "Can we not turn back? Surely there are allies to be found in safer places."
 msgstr ""
+"Nem fordulhatnánk vissza? Bizonyára találunk szövetségeseket biztonságosabb "
+"helyeken is."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:214
 msgid "Coward! Danger is not to be feared."
-msgstr ""
+msgstr "Gyáva! Nem szabad meghátrálni a veszély elől."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:218
@@ -1297,26 +1478,28 @@ msgid ""
 "And where you you be, Ignavus, if we had thought the same when we found you "
 "among the undead?"
 msgstr ""
+"És hol lennél, Ignavus, ha mi is így gondolkodtunk volna, amikor rád "
+"találtunk az élőholtak között?"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:222
 msgid "I just wanted to, um, confirm that the risk was worth it."
-msgstr ""
+msgstr "Csak izé... meg akartam győződni arról, hogy megéri a kockázatot."
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:243
 msgid "They're everywhere! Help!"
-msgstr ""
+msgstr "Mindenütt ott vannak! Segítség!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:247
 msgid "It's just one elf. You can beat it."
-msgstr ""
+msgstr "Ez csak egyetlen tünde. Le tudod győzni."
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:253
 msgid "There are more elves hiding in the trees."
-msgstr ""
+msgstr "Többen is rejtőzködnek a fák között."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:257
@@ -1324,51 +1507,53 @@ msgid ""
 "They must be the watchers. Now that we know they're there, they shouldn't be "
 "too much of a problem."
 msgstr ""
+"Bizonyára ők az őrszemek. Most, hogy tudjuk, hogy ott vannak, nem okozhatnak "
+"túl nagy problémát."
 
 #. [unit]: id=Arat, type=Poacher
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:282
 msgid "Arat"
-msgstr ""
+msgstr "Arat"
 
 #. [message]: speaker=Arat
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:293
 msgid "Look out, there are elves hiding in the forest."
-msgstr ""
+msgstr "Legyetek résen, tündék rejtőznek az erdőben!"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:297
 msgid "We know that already."
-msgstr ""
+msgstr "Már tudunk róla."
 
 #. [unit]: id=Forbi, type=Poacher
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:321
 msgid "Forbi"
-msgstr ""
+msgstr "Forbi"
 
 #. [unit]: id=Gulthamos, type=Trapper
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:336
 msgid "Gulthamos"
-msgstr ""
+msgstr "Gulthamos"
 
 #. [message]: speaker=Gulthamos
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:347
 msgid "I thought the elves were going to kill me."
-msgstr ""
+msgstr "Azt hittem, a tündék meg fognak ölni."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:351
 msgid "They still might — unless you help us, that is."
-msgstr ""
+msgstr "Még mindig megtehetik – hacsak nem segítesz nekünk."
 
 #. [message]: speaker=Gulthamos
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:355
 msgid "It looks like I have no choice. Lead on."
-msgstr ""
+msgstr "Úgy tűnik, nincs más választásom. Vezess tovább!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:366
 msgid "So much for the grand rescue."
-msgstr ""
+msgstr "Ennyit a nagy mentőakcióról..."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:403
@@ -1376,6 +1561,8 @@ msgid ""
 "We still have some time before the dam can be finished. I suggest we search "
 "for more allies."
 msgstr ""
+"Még mindig van valamennyi időnk, mielőtt befejezik a gátat. Azt javaslom, "
+"keressünk további szövetségeseket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:407
@@ -1383,6 +1570,8 @@ msgid ""
 "I would never have thought so before, but being with you has shown me that "
 "allies are very useful."
 msgstr ""
+"Soha nem gondoltam volna ezelőtt, de hogy veletek vagyok, most beláttam, "
+"milyen hasznosak is a szövetségesek."
 
 #. [then]
 #: Roar_of_the_Woses/scenarios/08a_Poacher_Rescue.cfg:409
@@ -1390,57 +1579,60 @@ msgstr ""
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:246
 msgid "We still have time to recruit one more ally. Who would you prefer?"
 msgstr ""
+"Még mindig van időnk, hogy soraink közé állítsunk még egy szövetségest. "
+"Kiket szeretnél?"
 
 #. [scenario]: id=08b_Highway_Robbery
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:5
 msgid "Highway Robbery"
-msgstr ""
+msgstr "Rablás az úton"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:17
 msgid ""
 "While finding the highwaymen was easy, their desire to help was lacking."
 msgstr ""
+"A banditákat könnyű volt megtalálni, de nem igazán hajlottak a segítségre."
 
 #. [side]: type=Bandit, id=Larhyn
 #. [side]: type=Saurian Flanker, id=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:38
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:72
 msgid "team_name^Highwaymen"
-msgstr ""
+msgstr "Banditák"
 
 #. [side]
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:47
 msgid "team_name^Caravan"
-msgstr ""
+msgstr "Karaván"
 
 #. [side]: type=Bandit, id=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:54
 msgid "Larhyn"
-msgstr ""
+msgstr "Larhyn"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:105
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:135
 msgid "Defeat the Morlan before Larhyn does"
-msgstr ""
+msgstr "Legyőzöd Morlant, mielőtt Larhyn győzi le"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:117
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:147
 msgid "Death of Larhyn"
-msgstr ""
+msgstr "Larhyn elesik"
 
 #. [objective]: condition=lose
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:125
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:151
 msgid "One of Larhyn's thugs kills Morlan"
-msgstr ""
+msgstr "Larhyn egyik gyilkosa legyőzi Morlant"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:165
 msgid "Why should I help you?"
-msgstr ""
+msgstr "Miért segítenék nektek?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:169
@@ -1449,16 +1641,19 @@ msgid ""
 "patrols from Wesnoth. Surely you can see that will make your livelihood more "
 "difficult."
 msgstr ""
+"A gát miatt egyre több ember fog ideköltözni, az pedig azt jelenti, hogy "
+"egyre több lesz a wesnothi őrjárat. Beláthatod, hogy az a ti életeteket is "
+"meg fogja nehezíteni."
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:173
 msgid "Then we shall go somewhere else as we have before."
-msgstr ""
+msgstr "Akkor elköltözük más vidékre, ahogyan már korábban is tettük."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:177
 msgid "Then we'll have to make you help us."
-msgstr ""
+msgstr "Akkor kényszeríteni fogunk, hogy segítsetek nekünk."
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:181
@@ -1468,61 +1663,66 @@ msgid ""
 "When they get halfway between you and me we'll both attack. If your men make "
 "the kill then we'll help you. If we get the leader, then you work for us."
 msgstr ""
+"Semmi hasznunk abból, ha veletek harcolunk. Mit szólnátok egy alkuhoz? Van "
+"egy tábor innen délre. Úgy számítom, nemsokára lovasok fognak érkezni, a mi "
+"területünkön keresztül. Ha félúton lesznek közöttünk, mindketten támadunk. "
+"Ha a te bajtársaid győzik le a vezérüket, akkor segítünk nektek. Ha mi "
+"győzzük le a vezért, akkor ti fogtok nekünk dolgozni."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:185
 msgid "Your terms are acceptable."
-msgstr ""
+msgstr "Elfogadom a feltételeidet."
 
 #. [unit]: type=Paladin, id=Morlan
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:222
 msgid "Morlan"
-msgstr ""
+msgstr "Morlan"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:236
 msgid "Attack!"
-msgstr ""
+msgstr "Támadás!"
 
 #. [message]: speaker=Morlan
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:246
 msgid "Ambush! To me, men!"
-msgstr ""
+msgstr "Rajtaütés! Mindenki hozzám!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:256
 msgid "I thought you were going to wait until he got halfway!"
-msgstr ""
+msgstr "Azt hittem várni fogsz, amíg félúton lesznek közöttünk!"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:260
 msgid "I lied."
-msgstr ""
+msgstr "Hazudtam."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:271
 msgid "How are we supposed to recruit the dead?"
-msgstr ""
+msgstr "Hogyan tudhatnánk halottakat toborozni?"
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:288
 msgid "I got him!"
-msgstr ""
+msgstr "Elkaptam!"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:292
 msgid "It looks like you're working for me now, Kylix."
-msgstr ""
+msgstr "Úgy tűnik, mostantól nekem dolgozol, Kylix."
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:309
 msgid "The paladin is ours!"
-msgstr ""
+msgstr "A keresztes lovag a mienk!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:313
 msgid "You're not going to renege on our bet, are you Larhyn?"
-msgstr ""
+msgstr "Csak nem akarsz visszatáncolni a fogadásunktól, Larhyn?"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08b_Highway_Robbery.cfg:317
@@ -1530,11 +1730,13 @@ msgid ""
 "After seeing your troops take that paladin down, I won't even consider it. "
 "My men are yours."
 msgstr ""
+"Miután láttam, ahogy a katonáid legyőzték azt a keresztes lovagot, meg sem "
+"fordul a fejemben. Rendelkezz az embereimmel."
 
 #. [scenario]: id=08c_Ambushed
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:5
 msgid "Ambushed!"
-msgstr ""
+msgstr "Rajtaütés!"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:17
@@ -1542,86 +1744,88 @@ msgid ""
 "Kylix and Isarras went looking for footpads. The footpads went looking for "
 "potential victims."
 msgstr ""
+"Kylix és Isarras elindultak, hogy megkeressék az útonállókat. Az útonállók "
+"pedig elindultak, hogy áldozatokat keressenek."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:20
 msgid "The footpads found what they were looking for first."
-msgstr ""
+msgstr "Először az útonállók találták meg, amit kerestek."
 
 #. [side]: type=Outlaw, id=Greta
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:46
 msgid "Greta"
-msgstr ""
+msgstr "Greta"
 
 #. [side]: type=Outlaw, id=Greta
 #. [side]: type=Outlaw, id=Karl
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:60
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:81
 msgid "team_name^Ambushers"
-msgstr ""
+msgstr "Rajtaütők"
 
 #. [side]: type=Outlaw, id=Karl
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:65
 msgid "Karl"
-msgstr ""
+msgstr "Karl"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:138
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:160
 msgid "Defeat Greta"
-msgstr ""
+msgstr "Legyőzöd Gretát"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:182
 msgid "Greetings..."
-msgstr ""
+msgstr "Üdvözöllek..."
 
 #. [message]: speaker=Greta
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:186
 msgid "Charge!"
-msgstr ""
+msgstr "Roham!"
 
 #. [message]: speaker=Larhyn
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:190
 msgid "You stole the words out of my mouth!"
-msgstr ""
+msgstr "A számból vetted ki a szót!"
 
 #. [message]: speaker=Greta
 #: Roar_of_the_Woses/scenarios/08c_Ambushed.cfg:201
 msgid "I surrender!"
-msgstr ""
+msgstr "Megadom magam!"
 
 #. [unit]: type=Dwarvish Fighter, id=Ignavus
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:16
 msgid "Ignavus"
-msgstr ""
+msgstr "Ignavus"
 
 #. [scenario]: id=09_Crossroads
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:29
 msgid "Crossroads"
-msgstr ""
+msgstr "A keresztút"
 
 #. [side]: type=Lich, id=ArKasan
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:64
 msgid "Ar'Kasan"
-msgstr ""
+msgstr "Ar'Kasan"
 
 #. [side]: type=Death Knight, id={ID}
 #. [side]: type=Lich, id=ArKasan
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:74
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:90
 msgid "team_name^Undead"
-msgstr ""
+msgstr "Élőholtak"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:126
 msgid "Kill Ar'Kasan"
-msgstr ""
+msgstr "Legyőzöd Ar'Kasan-t"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:156
 msgid "This swamp looks like a good place for a rest."
-msgstr ""
+msgstr "Ez a mocsár jó pihenőhelynek tűnik."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:160
@@ -1629,33 +1833,40 @@ msgid ""
 "And with a rest, our weakling followers will be stronger. Saurians, keep "
 "active. We must not appear weak before our allies."
 msgstr ""
+"És egy kis pihenő a gyengécske szövetségeseinknek is segít, hogy "
+"visszanyerjék erejüket. Gyíkok, maradjatok aktívak! Nem tűnhetünk gyengének "
+"a szövetségeseink előtt!"
 
 #. [message]: speaker=ArKasan
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:164
 msgid "Who are you that do trespass within my demesne?"
-msgstr ""
+msgstr "Ki vagy te, aki háborítani merészeled birtokomat?"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:168
 msgid "We do not answer to you and we go where we please."
 msgstr ""
+"Nem tartozunk neked válaszadással, és oda megyünk, ahová nekünk tetszik."
 
 #. [message]: speaker=ArKasan
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:172
 msgid "You lack manners, saurians. Attend, and learn from your better."
 msgstr ""
+"Hiányzik belőletek a jó modor, gyíkok. Gyertek, és tanuljatok a mestertől."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:176
 msgid ""
 "I think you made it angry. Look at all the skeletons rising from the ground."
-msgstr ""
+msgstr "Azt hiszem, feldühítetted. Nézd, csontvázak bújnak ki a földből."
 
 #. [message]: speaker=Gra Korust
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:180
 msgid ""
 "They shall be no problem. Their dry bones shall burn like tinder before me."
 msgstr ""
+"Ők nem okoznak nekünk problémát. A száraz csontjaik úgy fognak égni előttem, "
+"mint a tapló."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:184
@@ -1663,6 +1874,8 @@ msgid ""
 "They rise at its command—maybe they shall also fall without it. Strike for "
 "the leader and we shall put this theory to the test!"
 msgstr ""
+"Az ő parancsára kelnek életre – őnélküle talán nem is élnek tovább. "
+"Pusztítsátok el a vezérüket, és meglátjuk, hogy helytálló-e az elgondolás!"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:201
@@ -1670,16 +1883,20 @@ msgid ""
 "Help me! I was with my comrades when the undead attacked. I can't hold them "
 "off any longer."
 msgstr ""
+"Segítsetek! A bajtársaimmal voltam, amikor az élőholtak megtámadtak. Nem "
+"tudjuk őket tovább feltartani."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:205
 msgid "Of course we shall aid you. Join us, and we shall defeat them together."
 msgstr ""
+"Magától értetődő, hogy segítünk neked. Csatlakozz hozzánk, és együtt "
+"legyőzzük őket!"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:209
 msgid "You shall not regret helping me."
-msgstr ""
+msgstr "Nem fogjátok megbánni, hogy segítettetek!"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:243
@@ -1687,21 +1904,23 @@ msgid ""
 "Praise be! It's safe to come out. Please, let me join you in thanks for your "
 "rescue."
 msgstr ""
+"Hála a Magasságosnak! Biztonságban kijöhetünk! Engedjétek meg, hogy hálám "
+"jeléül csatlakozzak hozzátok!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:247
 msgid "Welcome to our company."
-msgstr ""
+msgstr "Üdvözlünk a csapatunkban!"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/09_Crossroads.cfg:269
 msgid "You said you'd protect me! Help!"
-msgstr ""
+msgstr "Azt mondtátok, megvédtek majd! Segítség!"
 
 #. [scenario]: id=10_The_Back_Door
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:42
 msgid "The Back Door"
-msgstr ""
+msgstr "A hátsó ajtó"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:54
@@ -1709,36 +1928,39 @@ msgid ""
 "True to Ignavus's word, there was a small cave out of which flowed a small "
 "stream. Kylix and Isarras entered it, seeking the tunnel to the dam."
 msgstr ""
+"Ignavus szavaihoz híven volt ott egy apró barlang, amelyből egy kis patak "
+"csordogált. Kylix és Isarras bementek, hogy megkeressék a gáthoz vezető "
+"alagutat."
 
 #. [side]: type=Dwarvish Lord, id=Golthi
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:81
 msgid "Golthi"
-msgstr ""
+msgstr "Golthi"
 
 #. [side]: type=Dwarvish Lord, id=Golthi
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:91
 msgid "team_name^Miners"
-msgstr ""
+msgstr "Bányászok"
 
 #. [side]: type=Spectre, id=Voiceless
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:97
 msgid "The Voiceless"
-msgstr ""
+msgstr "A Hangtalan"
 
 #. [side]: type=Spectre, id=Voiceless
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:112
 msgid "team_name^The Dead"
-msgstr ""
+msgstr "Halottak"
 
 #. [side]
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:121
 msgid "team_name^Vermin"
-msgstr ""
+msgstr "Férgek"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:188
 msgid "Move Kylix to the exit in the south"
-msgstr ""
+msgstr "Eljuttatod Kylixet a déli kijárathoz"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:208
@@ -1746,6 +1968,8 @@ msgid ""
 "We should reach the mines soon. After that, we go a bit further south and "
 "we'll find the exit to the hills above the dam."
 msgstr ""
+"Hamarosan elérjük a bányákat. Aztán még egy kicsit továbbmegyünk dél felé, "
+"és megtaláljuk a gát fölötti hegyekhez vezető kijáratot ."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:212
@@ -1753,11 +1977,13 @@ msgid ""
 "Good. Bring up the troops. We want to be ready for any dwarves that may "
 "remain."
 msgstr ""
+"Rendben. Hívd össze a harcosokat! Fel kell készülnünk; esetleg törpök "
+"maradhattak még itt."
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:216
 msgid "Surely you won't hurt them."
-msgstr ""
+msgstr "Nem kellene bántanod őket."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:220
@@ -1765,16 +1991,19 @@ msgid ""
 "I'm not going to be stopped now. If they try, I'm not going to back down. If "
 "they have already gone, so much the better."
 msgstr ""
+"Nem fogom hagyni, hogy most megállítsanak. Ha megpróbálják, nem fordulok "
+"vissza. Ha már elhagyták ezt a helyet, annál jobb."
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:224
 msgid "But, they're my relatives! You can't hurt them."
-msgstr ""
+msgstr "De ők a rokonaim! Nem bánthatod őket!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:228
 msgid "You should have thought of that before telling us of this route."
 msgstr ""
+"Azelőtt kellett volna erre gondolnod, hogy megmutattad nekünk ezt az utat."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:238
@@ -1782,11 +2011,13 @@ msgid ""
 "More earthquakes? The last one led us into a battle with orcs. What does "
 "this one portend?"
 msgstr ""
+"Még több földrengés? A legutóbbi háborúhoz vezetett az orkokkal. Ez vajon "
+"most mit jövendöl?"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:249
 msgid "Water. Look, the stream is already starting to rise."
-msgstr ""
+msgstr "Víz. Nézd, a folyó szintje máris emelkedik!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:253
@@ -1794,6 +2025,8 @@ msgid ""
 "Then the lake we saw the last time we were at the dam must have broken "
 "through. We'll have to hurry or the water might cut us off."
 msgstr ""
+"Akkor a tó, amit legutóbb a gátnál láttunk, bizonyára keresztültört. "
+"Sietnünk kell, másképp a víz elvághat minket."
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:267
@@ -1801,6 +2034,8 @@ msgid ""
 "So, outcast, was hiding while we were fighting for our lives not enough? You "
 "have twice betrayed your kin."
 msgstr ""
+"Kitaszított! Nem volt elég, hogy rejtőzködtél, amikor mi az életünkért "
+"harcoltunk? Kétszer is elárultad a fajtádat!"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:281
@@ -1809,6 +2044,9 @@ msgid ""
 "your comrades, you have been outcast. Now you return with a hostile force. "
 "The Law is clear: you must die."
 msgstr ""
+"Ignavus, a Tanmesterek beszéltek. Kitaszított lettél, a harcban tanúsított "
+"gyávaságodért, és mert elárultad a bajtársaidat. Most pedig egy ellenséges "
+"sereggel térsz vissza. A törvény szava világos: meg kell halnod."
 
 #. [message]: speaker=second_unit
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:295
@@ -1816,23 +2054,26 @@ msgid ""
 "Let my fellow dwarves witness: the Law has been upheld—the traitor "
 "vanquished."
 msgstr ""
+"Legyetek tanúi, törp fegyvertársaim: megtartottuk a Törvényt – az áruló "
+"kivégeztetett."
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:309
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:326
 msgid "This dwarf is already dead!"
-msgstr ""
+msgstr "Ez a törp már halott!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:338
 msgid "So kill it again."
-msgstr ""
+msgstr "Akkor öld meg ismét!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:342
 msgid "I thought dwarves took care of their dead. Why should they be rousing?"
 msgstr ""
+"Azt hittem, a törpök gondját viselték a halottaiknak. Miért ébrednének föl?"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:351
@@ -1840,69 +2081,73 @@ msgid ""
 "Our graveyard was to the south of here. The earthquake we felt earlier must "
 "have disturbed their graves."
 msgstr ""
+"A temetőnk itt volt, innen délre. A földrengés, amit korábban éreztünk, "
+"bizonyára megzavarta a sírjaikat."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:357
 msgid "It's a pity that Ignavus is dead. He may have known the answer."
-msgstr ""
+msgstr "Kár, hogy Ignavus halott. Ő talán tudta volna a választ."
 
 #. [message]
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:413
 msgid "Help, I'm drowning!"
-msgstr ""
+msgstr "Segítség! Megfulladok!"
 
 #. [object]: id=object_cloak
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:473
 msgid "Spectral Cloak"
-msgstr ""
+msgstr "Kisértetköpeny"
 
 #. [object]: id=object_cloak
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:476
 msgid "The Spectral Cloak grants you the power of a ghost."
-msgstr ""
+msgstr "A Kisértetköpeny egy szellem erejével ruházza fel viselőjét."
 
 #. [object]: id=object_cloak
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:477
 msgid "Only a faerie may use this item."
-msgstr ""
+msgstr "Csak egy tündér használhatja ezt az eszközt."
 
 #. [effect]: type=arcane
 #: Roar_of_the_Woses/scenarios/10_The_Back_Door.cfg:505
 msgid "touch"
-msgstr ""
+msgstr "érintés"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:38
 msgid ""
 "Kylix and Isarras returned to the dam, this time with an army at their backs."
 msgstr ""
+"Kylix és Isarras visszatértek a gáthoz, ám most egy hadsereggel a hátuk "
+"mögött."
 
 #. [side]: type=Grand Marshal, id=Macharan
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:64
 msgid "Macharan"
-msgstr ""
+msgstr "Macharan"
 
 #. [side]: type=General, id={ID}
 #. [side]: type=Grand Marshal, id=Macharan
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:74
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:91
 msgid "team_name^Wesnoth"
-msgstr ""
+msgstr "Wesnoth"
 
 #. [scenario]: id=11_The_Roar_of_the_Woses
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:111
 msgid "Womaer"
-msgstr ""
+msgstr "Womaer"
 
 #. [scenario]: id=11_The_Roar_of_the_Woses
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:112
 msgid "Law"
-msgstr ""
+msgstr "Law"
 
 #. [objective]: condition=win
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:172
 msgid "Destroy the Dam"
-msgstr ""
+msgstr "Elpusztítod a gátat"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:191
@@ -1910,6 +2155,8 @@ msgid ""
 "We have returned! This time we shall not retreat until the dam is destroyed. "
 "Woses, are you ready to strike?"
 msgstr ""
+"Visszatértünk! Most nem hátrálunk addig, amíg a gátat el nem pusztítottuk. "
+"Fapásztorok, készen álltok, hogy lesújtsatok?"
 
 #. [message]: type=Ancient Wose,Elder Wose,Wose
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:195
@@ -1917,17 +2164,21 @@ msgid ""
 "We can see the weak points in the dam from here. The walls are thick and it "
 "will take us some time to break through."
 msgstr ""
+"Innen jól látjuk a gát gyenge pontjait. A falak vastagok, és időre lesz "
+"szükségünk, hogy áttörjük őket."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:199
 msgid "We will keep the humans away while you work."
-msgstr ""
+msgstr "Mi majd távol tartjuk az embereket, amíg ti dolgoztok."
 
 #. [message]: speaker=Macharan
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:203
 msgid ""
 "The swamp creatures have returned, and they have brought allies. To arms!"
 msgstr ""
+"A mocsári lények visszatértek, és szövetségeseket is hoztak magukkal! "
+"Fegyverbe!"
 
 #. [message]: type=Gryphon Master
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:220
@@ -1935,16 +2186,18 @@ msgid ""
 "We have come! Now, fall upon these saurians like a hurricane. Let none stand "
 "before us!"
 msgstr ""
+"Megérkeztünk! Most rohanjátok le ezeket a gyíkokat, mint a hurrikán! Senki "
+"ne maradjon állva előttünk!"
 
 #. [message]: speaker=unit
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:255
 msgid "I am in position. Guard me!"
-msgstr ""
+msgstr "A helyemen vagyok. Fedezzetek!"
 
 #. [message]: speaker=Macharan
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:351
 msgid "They're trying to destroy the dam. Stop them!"
-msgstr ""
+msgstr "Megpróbálják elpusztítani a gátat! Állítsátok meg őket!"
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/scenarios/11_The_Roar_of_the_Woses.cfg:356
@@ -1953,11 +2206,14 @@ msgid ""
 "The number of turns depends on the level of the wose. Progress is not lost "
 "if the wose is interrupted."
 msgstr ""
+"Hogy áttörhesse a gát egyes területeit, a fapásztornak több körön át "
+"pihennie kell. A körök száma függ a fapásztor szintjétől. Ha a fapásztort "
+"megzavarják, az eddig elvégzett munkája nem vész el."
 
 #. [scenario]: id=12_Epilogue
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilógus"
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:12
@@ -1969,6 +2225,12 @@ msgid ""
 "territory. There she ruled for another ten years, until she died, old and "
 "powerful."
 msgstr ""
+"A gát elpusztítása után hatalmas árhullám söpört végig a folyón. Mire Kylix "
+"és Isarras hazatértek, az emberek jelenlétének már minden nyoma eltűnt. "
+"Továbbá az árhullám súlyos károkat okozott a szomszédos törzsek "
+"területeiben, olyannyira meggyengítve őket, hogy Kylix ki tudta terjeszteni "
+"a területét. Ott uralkodott még további tíz évig, amikor hatalmasan és "
+"tisztes öregségben érte a halál."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:16
@@ -1976,6 +2238,8 @@ msgid ""
 "Isarras remained an ally of the tribe and was never given cause to regret "
 "his suggestion."
 msgstr ""
+"Isarras a törzs szövetségese maradt, és soha nem volt rá oka, hogy megbánja "
+"elhatározását."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:26
@@ -1984,6 +2248,9 @@ msgid ""
 "visitor and an informal competition arose between him and the tribe, each "
 "trying to ambush the other."
 msgstr ""
+"Gra Korust visszatért otthonába, az Estmark-hegységbe. Gyakori látogatóvá "
+"vált, és egy nem hivatalos vetélkedés alakult ki közte és a törzs között, "
+"amelyben mindegyik megpróbálta rajtaütésszerűen meglepni a másikat."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:38
@@ -1991,6 +2258,8 @@ msgid ""
 "Ignavus left suddenly, soon after the dam was destroyed. Shortly afterward a "
 "party of dwarves was seen travelling east."
 msgstr ""
+"Ignavus hamar elhagyta barátait, nem sokkal a gát elpusztítása után. Nem "
+"sokkal ezután egy csapat törpöt figyeltek meg, akik kelet felé utaztak."
 
 #. [part]
 #: Roar_of_the_Woses/scenarios/12_Epilogue.cfg:44
@@ -1998,21 +2267,23 @@ msgid ""
 "The human rogues quickly scattered and many were later killed by Kylix "
 "during one of her raids."
 msgstr ""
+"A haramiák gyorsan szétszóródtak, és sokukkal Kylix végzett később, az egyik "
+"portyája során."
 
 #. [terrain_type]: id=ford_c
 #: Roar_of_the_Woses/terrain.cfg:28
 msgid "Cave Ford"
-msgstr ""
+msgstr "Barlangi gázló"
 
 #. [terrain_type]: id=burnt_village
 #: Roar_of_the_Woses/terrain.cfg:39
 msgid "Burned Village"
-msgstr ""
+msgstr "Felégetett falu"
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 #: Roar_of_the_Woses/units/Dwarvish_Miner.cfg:4
 msgid "Dwarvish Miner"
-msgstr ""
+msgstr "Törp bányász"
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 #: Roar_of_the_Woses/units/Dwarvish_Miner.cfg:18
@@ -2021,16 +2292,19 @@ msgid ""
 "precious ores out of the ground, but do not ever take part in the crafting "
 "of weapons or artifacts."
 msgstr ""
+"A törp bányászok a törp társadalom munkásai. Ők fejtik ki az értékes érceket "
+"a hegy gyomrából, de soha nem vesznek részt a fegyverek vagy műalkotások "
+"létrehozásában."
 
 #. [attack]: type=pierce
 #: Roar_of_the_Woses/units/Dwarvish_Miner.cfg:23
 msgid "pick"
-msgstr ""
+msgstr "csákány"
 
 #. [unit_type]: id=Peri, race=faerie
 #: Roar_of_the_Woses/units/Faerie/Peri.cfg:5
 msgid "Peri"
-msgstr ""
+msgstr "Peri"
 
 #. [unit_type]: id=Peri, race=faerie
 #: Roar_of_the_Woses/units/Faerie/Peri.cfg:21
@@ -2038,26 +2312,28 @@ msgid ""
 "Faeries come in many varieties. It is believed that their wings reflect on "
 "their status, with larger wings having greater value."
 msgstr ""
+"A tündéreknek sok fajtája van. Azt tartják, hogy a szárnyukból lehet "
+"következtetni a pozíciójukra, ahol a nagyobb szárny magasabb pozíciót jelent."
 
 #. [unit_type]: id=Sprite, race=faerie
 #: Roar_of_the_Woses/units/Faerie/Sprite.cfg:5
 msgid "Sprite"
-msgstr ""
+msgstr "Tündér"
 
 #. [unit_type]: id=Sprite, race=faerie
 #: Roar_of_the_Woses/units/Faerie/Sprite.cfg:20
 msgid "Sprites are among the smallest manifestations of Faerie."
-msgstr ""
+msgstr "A tündérek a szellemlények legkisebb megjelenési formái."
 
 #. [dummy]: id=sacrifice
 #: Roar_of_the_Woses/units/Haruspex.cfg:9
 msgid "sacrifice"
-msgstr ""
+msgstr "áldozat"
 
 #. [dummy]: id=sacrifice
 #: Roar_of_the_Woses/units/Haruspex.cfg:10
 msgid "female^sacrifice"
-msgstr ""
+msgstr "áldozat"
 
 #. [dummy]: id=sacrifice
 #: Roar_of_the_Woses/units/Haruspex.cfg:11
@@ -2066,11 +2342,14 @@ msgid ""
 "This attack heals adjacent allies for one third of the damage dealt to a "
 "living enemy."
 msgstr ""
+"Áldozat:\n"
+"Ez a támadás az élő ellenségnek okozott sebzés egy harmadával gyógyítja a "
+"szomszédos szövetségeseket."
 
 #. [unit_type]: id=Saurian Haruspex, race=lizard
 #: Roar_of_the_Woses/units/Haruspex.cfg:18
 msgid "Saurian Haruspex"
-msgstr ""
+msgstr "Gyík béljósló"
 
 #. [unit_type]: id=Saurian Haruspex, race=lizard
 #: Roar_of_the_Woses/units/Haruspex.cfg:41
@@ -2079,11 +2358,14 @@ msgid ""
 "position. A few instead wield blood encrusted knives. Their magic seems to "
 "be like unto the foulest of necromancy."
 msgstr ""
+"A gyík mágiahasználók megmunkálatlan botokat hordanak, mint pozíciójuk "
+"szimbólumát. Néhányan e helyett vérrel díszített pengéjű késeket forgatnak. "
+"A mágiájuk olyasmi, mint a legdurvább halottidéző mágia."
 
 #. [unit_type]: id=Saurian Lurker, race=lizard
 #: Roar_of_the_Woses/units/Lurker.cfg:5
 msgid "Saurian Lurker"
-msgstr ""
+msgstr "Gyík bújkáló"
 
 #. [unit_type]: id=Saurian Lurker, race=lizard
 #: Roar_of_the_Woses/units/Lurker.cfg:34
@@ -2093,21 +2375,25 @@ msgid ""
 "can remain underwater, lurking just below the surface to ambush those who "
 "come too near the water's edge."
 msgstr ""
+"Jóllehet a gyíkok a fürgeségükről ismertek, a hideg vérük alkalmassá teszi "
+"őket arra, hogy hosszú ideig visszatartsák a lélegzetüket. Kellő "
+"gyakorlással egy gyík képes a víz alatt maradni, közvetlenül a felszín alatt "
+"bújkálva, hogy rajtaüssön azokon, akik túl közel jönnek a vízparthoz."
 
 #. [race]: id=faerie
 #: Roar_of_the_Woses/units/faerie.cfg:5
 msgid "race^Faerie"
-msgstr ""
+msgstr "Tündér"
 
 #. [race]: id=faerie
 #: Roar_of_the_Woses/units/faerie.cfg:6
 msgid "race+female^Faerie"
-msgstr ""
+msgstr "Tündér"
 
 #. [race]: id=faerie
 #: Roar_of_the_Woses/units/faerie.cfg:7
 msgid "race^Faeries"
-msgstr ""
+msgstr "Tündérek"
 
 #. [race]: id=faerie
 #: Roar_of_the_Woses/units/faerie.cfg:8
@@ -2120,27 +2406,27 @@ msgstr ""
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/utils/deaths.cfg:20
 msgid "I can help no longer."
-msgstr ""
+msgstr "Tovább nem tudok segíteni."
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/utils/deaths.cfg:43
 msgid "Because Greta has died, footpads can no longer be recruited."
-msgstr ""
+msgstr "Greta meghalt, ezért nem tudsz több útonállót toborozni."
 
 #. [message]: speaker=Gulthamos
 #: Roar_of_the_Woses/utils/deaths.cfg:58
 msgid "At least I died free."
-msgstr ""
+msgstr "Legalább szabadon haltam meg."
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/utils/deaths.cfg:63
 msgid "Without Gulthamos, you cannot recruit poachers."
-msgstr ""
+msgstr "Gulthamos nélkül nem toborozhatsz orvvadászokat."
 
 #. [message]: speaker=narrator
 #: Roar_of_the_Woses/utils/deaths.cfg:80
 msgid "With the death of Larhyn, you may no longer recruit thugs."
-msgstr ""
+msgstr "Larhyn halála után nem toborozhatsz többé gyilkosokat."
 
 #. [option]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:41
@@ -2148,26 +2434,30 @@ msgid ""
 "We need some archers. Let us track down some poachers and convince them to "
 "join."
 msgstr ""
+"Szükségünk van íjászokra. Keressünk pár orvvadászt, és győzzük meg őket, "
+"hogy csatlakozzanak hozánk!"
 
 #. [option]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:58
 msgid "We could use some thugs to strengthen our lines."
-msgstr ""
+msgstr "Jól jönne néhány gyilkos, hogy erősítsék a sorainkat."
 
 #. [option]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:75
 msgid "We need to keep moving. Footpads should be able to keep up with us."
 msgstr ""
+"Mozgásban kell maradnunk. Az útonállók biztosan tudják majd tartani velünk a "
+"lépést."
 
 #. [option]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:93
 msgid "We have enough allies already. It is time to strike!"
-msgstr ""
+msgstr "Már elegendő szövetségesünk van. Ideje, hogy lecsapjunk!"
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/utils/misc.cfg:115
 msgid "Now, on to the dam! All those in our way shall fall!"
-msgstr ""
+msgstr "Most, a gátra! Pusztuljon mindenki, aki az utunkba áll!"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/utils/misc.cfg:119
@@ -2175,11 +2465,12 @@ msgid ""
 "You're going to the dam? And planning on fighting through everyone? You're "
 "crazy!"
 msgstr ""
+"A gátra mégy? És keresztül akarod verekedni magad mindenkin? Te őrült vagy!"
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:123
 msgid "It's the only way we can get to the dam. We have no choice."
-msgstr ""
+msgstr "Ez az egyetlen módja, hogy elérjük a gátat. Nincs más választásunk."
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/utils/misc.cfg:127
@@ -2190,11 +2481,16 @@ msgid ""
 "flooded next year. We should be able to bypass the Wesnoth army entirely if "
 "we go that way."
 msgstr ""
+"De van egy másik út. Az őseim, és én is a hegy alatt laktunk, és számos "
+"alagutat és tárnát ástunk ki. Az egyikük nagyon közel van a gáthoz. A "
+"rokonaim abahagyták a bányászatot, és kiköltöztek, mert arra számítottak, "
+"hogy a területre jövőre betör a víz. Ha azon az úton megyünk, teljességgel "
+"elkerülhetjük Wesnoth seregét."
 
 #. [message]: speaker=Kylix
 #: Roar_of_the_Woses/utils/misc.cfg:131
 msgid "Is that so? Where is the entrance to this mine you speak of?"
-msgstr ""
+msgstr "Csakugyan? Hol van ennek a bizonyos bányának a bejárata?"
 
 #. [message]: speaker=Ignavus
 #: Roar_of_the_Woses/utils/misc.cfg:135
@@ -2202,8 +2498,31 @@ msgid ""
 "The closest entrance is concealed within a small cave on the eastern edge of "
 "the hills. A small waterfall flows out of it, discouraging exploration."
 msgstr ""
+"A legközelebbi bejárat egy kis barlangban van elrejtve, a dombok keleti "
+"szélén. Egy kis vízesés ered belőle, hogy elrettentse a betolakodókat."
 
 #. [message]: speaker=Isarras
 #: Roar_of_the_Woses/utils/misc.cfg:139
 msgid "We have no fear of water. Lead us to it!"
-msgstr ""
+msgstr "Mi nem félünk a víztől. Vezess oda minket!"
+
+#~ msgid "Deep Water"
+#~ msgstr "Mélyvíz"
+
+#~ msgid "Shallow Water"
+#~ msgstr "Sekély víz"
+
+#~ msgid "Village"
+#~ msgstr "Falu"
+
+#~ msgid "faerie fire"
+#~ msgstr "tündértűz"
+
+#~ msgid "dagger"
+#~ msgstr "tőr"
+
+#~ msgid "curse"
+#~ msgstr "átok"
+
+#~ msgid "spear"
+#~ msgstr "dárda"
