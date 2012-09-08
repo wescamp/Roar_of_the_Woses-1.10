@@ -1,7 +1,7 @@
 # Németi Barna <greeneyelink@gmx.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Roar_of_the_Woses-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 21:02-0400\n"
 "PO-Revision-Date: 2012-04-10 11:08+0200\n"
